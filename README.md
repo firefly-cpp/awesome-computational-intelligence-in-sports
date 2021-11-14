@@ -6,7 +6,7 @@ List is mainly composed from the methods that are based on evolutionary algorith
 
 # Contents
 - [Books](#Books)
-- [Review papers](#Review papers)
+- [Review papers](#Review-papers)
 - [Research papers](#Research-papers)
 - [Datasets](#Datasets)
   * [Cycling](#Cycling)
@@ -14,7 +14,7 @@ List is mainly composed from the methods that are based on evolutionary algorith
   * [Track and field](#Track-and-field)
   * [Triathlon](#Triathlon)
   * [Wrestling](#Wrestling)
-- [Software](#Software-&-toolboxes)
+- [Software](#Software)
 - [Web applications](#Web-applications)
 
 
@@ -114,7 +114,7 @@ Podgorelec, Vili, Špela Pečnik, and Grega Vrbančič. "[Classification of Simi
 
 Rauter, Samo. "[New approach for planning the mountain bike training with virtual coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf)." (2018).
 
-Schaefer, David, Alexander Asteroth, and Melanie Ludwig. "[Training plan evolution based on training models](Training plan evolution based on training models)." 2015 International Symposium on INnovations in Intelligent SysTems and Applications (INISTA). IEEE, 2015.
+Schaefer, David, Alexander Asteroth, and Melanie Ludwig. "[Training plan evolution based on training models](https://ieeexplore.ieee.org/abstract/document/7276739)." 2015 International Symposium on INnovations in Intelligent SysTems and Applications (INISTA). IEEE, 2015.
 
 Silacci, Alessandro, et al. "[Designing an e-coach to tailor training plans for road cyclists](https://link.springer.com/chapter/10.1007/978-3-030-27928-8_102)." International Conference on Human Systems Engineering and Design: Future Trends and Applications. Springer, Cham, 2019.
 
@@ -162,7 +162,7 @@ Iztok Fister Jr., Dušan Fister. [A collection of IRONMAN, IRONMAN 70.3 and Ultr
 
 Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747), 1988–2018." Data in brief 19 (2018): 1458-1465.
 
-## Software & toolboxes
+## Software
 
 * [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features): A minimalistic toolbox for extracting features from sport activity files written in Python
 * [txreader](https://github.com/alenrajsp/tcxreader): reader / parser for Garmin’s TCX file format.
