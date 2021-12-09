@@ -8,6 +8,8 @@ List is mainly composed from the methods that are based on evolutionary algorith
 - [Books](#Books)
 - [Review papers](#Review-papers)
 - [Research papers](#Research-papers)
+- [Tutorials](#Tutorial)
+- [Perspectives](#Perspectives)
 - [Datasets](#Datasets)
   * [Cycling](#Cycling)
   * [Soccer](#Soccer)
@@ -63,6 +65,10 @@ Ding, Xianqiong, et al. "[Sports Training Model Based on GA Optimized Neural Net
 Eriksson, Rikard, and Johan Nicander. "[Automated Generation of Training Programs for Swimmers Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://odr.chalmers.se/handle/20.500.12380/302927)." (2021).
 
 Farrokhi, Alireza, et al. "[A Decision Tree-Based Smart Fitness Framework in IoT](https://link.springer.com/article/10.1007/s42979-021-00940-x)." SN Computer Science 3.1 (2022): 1-10.
+
+Feely, Ciara, et al. "[A Case-Based Reasoning Approach to Predicting and Explaining Running Related Injuries](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_6)." International Conference on Case-Based Reasoning. Springer, Cham, 2021.
+
+Ferencsik, Dorina K., and Erika B. Varga. "[Cycling Activity Dataset Creation and Application for Feedback Giving](https://sciendo.com/pdf/10.2478/amset-2021-0015)." Acta Marisiensis. Seria Technologica 18.2 (2021): 29-35.
 
 Fialho, Gabriel, Aline Manhães, and João Paulo Teixeira. "[Predicting sports results with artificial intelligence–a proposal framework for soccer games](https://www.sciencedirect.com/science/article/pii/S1877050919322033)." Procedia Computer Science 164 (2019): 131-136.
 
@@ -127,6 +133,14 @@ Teikari, Petteri, and Aleksandra Pietrusz. "[Precision strength training: Data-d
 Van Bulck, David, Arthur Vande Weghe, and Dries Goossens. "[Result-based talent identification in road cycling: discovering the next Eddy Merckx](https://link.springer.com/article/10.1007/s10479-021-04280-0)." Annals of Operations Research (2021): 1-18.
 
 Zhang, Yuwang, and Yuan Zhang. "[Sports Training System Based on Convolutional Neural Networks and Data Mining](https://www.hindawi.com/journals/cin/2021/1331759/)." Computational Intelligence and Neuroscience 2021 (2021).
+
+## Tutorials
+
+Bock, Marius, et al. "[Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663)." arXiv preprint arXiv:2110.06663 (2021).
+
+## Perspectives
+
+Chmait, Nader, and Hans Westerbeek. "[Artificial Intelligence and Machine Learning in Sport research: An introduction for non-data scientists](https://www.frontiersin.org/articles/10.3389/fspor.2021.682287)." Frontiers in Sports and Active Living: 363.
 
 ## Datasets
 
