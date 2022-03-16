@@ -54,11 +54,17 @@ Carey, David L., et al. "[Optimizing preseason training loads in Australian Foot
 
 Chen, Shuxi, et al. "[Detecting sports fatigue from speech by support vector machine](https://ieeexplore.ieee.org/abstract/document/7586626)." 2016 8th IEEE International Conference on Communication Software and Networks (ICCSN). IEEE, 2016.
 
+Cintia, Paolo, and Luca Pappalardo. "[Coach2vec: autoencoding the playing style of soccer coaches](https://arxiv.org/pdf/2106.15444.pdf)." arXiv preprint arXiv:2106.15444 (2021).
+
 Connor, Mark, et al. "[Optimising team sport training plans with grammatical evolution](https://ieeexplore.ieee.org/abstract/document/8790369)." 2019 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2019.
 
 Connor, Mark, et al. "[Optimizing Team Sport Training With Multi-Objective Evolutionary Computation](https://sciendo.com/pdf/10.2478/ijcss-2021-0006)." International Journal of Computer Science in Sport 20.1 (2021): 92-105.
 
+Connor, Mark, Marco Beato, and Michael O'Neill. "[Adaptive Athlete Training Plan Generation: An intelligent control systems approach](https://www.sciencedirect.com/science/article/pii/S1440244021004679)." Journal of Science and Medicine in Sport (2021).
+
 De Prisco, Roberto, et al. "[Providing music service in Ambient Intelligence: experiments with gym users](https://www.sciencedirect.com/science/article/abs/pii/S0957417421003924)." Expert Systems with Applications 177 (2021): 114951.
+
+Deng, Huijian, Shijian Cao, and Jingen Tang. "[Prediction of Sports Aggression Behavior and Analysis of Sports Intervention Based on Swarm Intelligence Model](https://www.hindawi.com/journals/sp/2022/2479939/)." Scientific Programming 2022 (2022).
 
 Ding, Xianqiong, et al. "[Sports Training Model Based on GA Optimized Neural Network](https://ieeexplore.ieee.org/abstract/document/9526701)." 2020 13th International Conference on Intelligent Computation Technology and Automation (ICICTA). IEEE, 2020.
 
@@ -79,6 +85,8 @@ Fister, Dušan, I. J. Fister, and Iztok Fister. "[Visualization of cycling train
 Fister, Iztok, et al. "[Planning the sports training sessions with the bat algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009710)." Neurocomputing 149 (2015): 993-1002.
 
 Fister Jr, Iztok, et al. "[Framework for planning the training sessions in triathlon](https://dl.acm.org/doi/abs/10.1145/3205651.3208242)." Proceedings of the Genetic and Evolutionary Computation Conference Companion. 2018.
+
+Fister Jr, Iztok, et al. "[New Perspectives in the Development of the Artificial Sport Trainer](https://www.mdpi.com/2076-3417/11/23/11452/htm)" Applied Sciences 11.23 (2021): 11452.
 
 Fister Jr, Iztok, et al. "[SportyDataGen: An Online Generator of Endurance Sports Activity Collections](http://www.iztok-jr-fister.eu/static/publications/225.pdf)." Central European Conference on Information and Intelligent Systems. Faculty of Organization and Informatics Varazdin, 2018.
 
@@ -102,7 +110,11 @@ Kumyaito, Nattapon, Preecha Yupapin, and Kreangsak Tamee. "[Planning a sports tr
 
 Joshi, Ketan, et al. "[Robust sports image classification using InceptionV3 and neural networks](https://www.sciencedirect.com/science/article/pii/S1877050920307560)." Procedia Computer Science 167 (2020): 2374-2381.
 
+Li, Gang, and Tongzhou Zhao. "[Approach of Intelligence Question-Answering System Based on Physical Fitness Knowledge Graph](https://ieeexplore.ieee.org/abstract/document/9638824)." 2021 4th International Conference on Robotics, Control and Automation Engineering (RCAE). IEEE, 2021.
+
 Liu, Yu, et al. "[Design and implementation of concurrent optimization schemes for sports health prediction platform](https://www.computer.org/csdl/proceedings-article/icdh/2018/949700a208/17D45WrVgdj)." 2018 7th International Conference on Digital Home (ICDH). IEEE Computer Society, 2018.
+
+Lopez-Gomez, Julio Alberto, Francisco P. Romero, and Eusebio Angulo. "[A feature-weighting approach using metaheuristic algorithms to evaluate the performance of handball goalkeepers](https://ieeexplore.ieee.org/abstract/document/9726167/)." IEEE Access (2022).
 
 Matabuena, Marcos, and Rosana Rodríguez-López. "[An improved version of the classical banister model to predict changes in physical condition](https://link.springer.com/article/10.1007/s11538-019-00588-y)." Bulletin of mathematical biology 81.6 (2019): 1867-1884.
 
@@ -117,6 +129,8 @@ Ofoghi, Bahadorreza, et al. "[Modelling and analysing track cycling Omnium perfo
 Pappalardo, Luca, et al. "[PlayeRank: data-driven performance evaluation and player ranking in soccer via a machine learning approach](https://dl.acm.org/doi/abs/10.1145/3343172)." ACM Transactions on Intelligent Systems and Technology (TIST) 10.5 (2019): 1-27.
 
 Podgorelec, Vili, Špela Pečnik, and Grega Vrbančič. "[Classification of Similar Sports Images Using Convolutional Neural Network with Hyper-Parameter Optimization](https://www.mdpi.com/2076-3417/10/23/8494)." Applied Sciences 10.23 (2020): 8494.
+
+Rajšp, A., & Fister, I. Jr. [Discovering the influence of interruptions in cycling training: A data science study](https://link.springer.com/chapter/10.1007/978-3-030-77970-2_32). In International Conference on Computational Science (pp. 420-432). Springer, Cham, 2021.
 
 Rauter, Samo. "[New approach for planning the mountain bike training with virtual coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf)." (2018).
 
