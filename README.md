@@ -198,7 +198,6 @@ Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ 
 
 ## Web applications
 
-* [SportyDataGen](http://www.sport-slo.net/)
 
 ## Contributing
 
