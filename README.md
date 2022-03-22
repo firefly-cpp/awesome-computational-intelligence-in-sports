@@ -8,7 +8,7 @@ List is mainly composed from the methods that are based on evolutionary algorith
 - [Books](#Books)
 - [Review papers](#Review-papers)
 - [Research papers](#Research-papers)
-- [Diseratation or thesis](Diseratation-or-thesis)
+- [Dissertation or thesis](Dissertation-or-thesis)
 - [Tutorials](#Tutorial)
 - [Perspectives](#Perspectives)
 - [Datasets](#Datasets)
@@ -148,7 +148,7 @@ Van Bulck, David, et al. “[Result-Based Talent Identification in Road Cycling:
 Zhang, Yuwang, and Yuan Zhang. “[Sports Training System Based on Convolutional Neural Networks and Data Mining](https://www.hindawi.com/journals/cin/2021/1331759/).” Computational Intelligence and Neuroscience, vol. 2021, Hindawi Limited, 2021, doi:[10.1155/2021/1331759](https://doi.org/10.1155/2021/1331759).
 
 
-## Diseratation or thesis
+## Dissertation or thesis
 
 Murillo Burford, Esteban. [Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/). Wake Forest University Graduate School of Arts and Sciences, 2020.
 
