@@ -8,6 +8,7 @@ List is mainly composed from the methods that are based on evolutionary algorith
 - [Books](#Books)
 - [Review papers](#Review-papers)
 - [Research papers](#Research-papers)
+- [Diseratation or thesis](Diseratation-or-thesis)
 - [Tutorials](#Tutorial)
 - [Perspectives](#Perspectives)
 - [Datasets](#Datasets)
