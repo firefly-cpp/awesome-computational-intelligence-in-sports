@@ -8,7 +8,7 @@ List is mainly composed from the methods that are based on evolutionary algorith
 - [Books](#Books)
 - [Review papers](#Review-papers)
 - [Research papers](#Research-papers)
-- [Dissertation or thesis](Dissertation-or-thesis)
+- [Dissertation or thesis](#Dissertation-or-thesis)
 - [Tutorials](#Tutorial)
 - [Perspectives](#Perspectives)
 - [Datasets](#Datasets)
@@ -137,7 +137,7 @@ Schaefer, David, et al. “[Training Plan Evolution Based on Training Models](ht
 
 Silacci, Alessandro, et al. “[Designing an E-Coach to Tailor Training Plans for Road Cyclists](https://link.springer.com/chapter/10.1007/978-3-030-27928-8_102).” Advances in Intelligent Systems and Computing, vol. 1026, Springer, Cham, 2020, pp. 671–77, doi:[10.1007/978-3-030-27928-8_102](https://doi.org/10.1007/978-3-030-27928-8_102).
 
-Silacci, Alessandro, et al. “[Towards an AI-Based Tailored Training Planning for Road Cyclists: A Case Study](](https://www.mdpi.com/2076-3417/11/1/313).” Applied Sciences, vol. 11, no. 1, Multidisciplinary Digital Publishing Institute, Dec. 2020, p. 313, doi:[10.3390/app11010313](https://doi.org/10.3390/app11010313).
+Silacci, Alessandro, et al. “[Towards an AI-Based Tailored Training Planning for Road Cyclists: A Case Study](https://www.mdpi.com/2076-3417/11/1/313).” Applied Sciences, vol. 11, no. 1, Multidisciplinary Digital Publishing Institute, Dec. 2020, p. 313, doi:[10.3390/app11010313](https://doi.org/10.3390/app11010313).
 
 Smyth, Barry, et al. “[Recommendations for Marathon Runners: On the Application of Recommender Systems and Machine Learning to Support Recreational Marathon Runners](https://link.springer.com/article/10.1007/s11257-021-09299-3).” User Modeling and User-Adapted Interaction, Springer, Aug. 2021, pp. 1–52, doi:[10.1007/s11257-021-09299-3](https://doi.org/10.1007/s11257-021-09299-3).
 
