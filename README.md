@@ -156,7 +156,7 @@ Eriksson, Rikard, and Johan Nicander. [Automated Generation of Training Programs
 
 ## Tutorials
 
-Bock, Marius, et al. [Tutorial on Deep Learning for Human Activity Recognition]([Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663). Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://arxiv.org/abs/2110.06663).
+Bock, Marius, et al. [Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663). Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://arxiv.org/abs/2110.06663).
 
 ## Perspectives
 
