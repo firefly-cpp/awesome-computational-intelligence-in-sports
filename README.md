@@ -34,6 +34,8 @@ Bonidia, Robson P., et al. “[Data Mining in Sports: A Systematic Review](https
 
 Bonidia, Robson P., et al. “[Computational Intelligence in Sports: A Systematic Literature Review](https://www.hindawi.com/journals/ahci/2018/3426178/).” Advances in Human-Computer Interaction, vol. 2018, Hindawi Limited, Oct. 2018, pp. 1–13, doi:[10.1155/2018/3426178](https://doi.org/10.1155/2018/3426178).
 
+Bunker, Rory, and Teo Susnjak. “[The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://www.jair.org/index.php/jair/article/view/13509).” Journal of Artificial Intelligence Research, vol. 73, AI Access Foundation, Apr. 2022, pp. 1285–322, doi:[10.1613/JAIR.1.13509])(https://doi.org/10.1613/JAIR.1.13509).
+
 Farrokhi, Alireza, et al. “[Application of Internet of Things and Artificial Intelligence for Smart Fitness: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621000360).” Computer Networks, vol. 189, Elsevier, Apr. 2021, p. 107859, doi:[10.1016/j.comnet.2021.107859](https://doi.org/10.1016/j.comnet.2021.107859).
 
 Fister, Iztok, et al. “[Computational Intelligence in Sports: Challenges and Opportunities within a New Research Domain](https://www.sciencedirect.com/science/article/abs/pii/S0096300315004300).” Applied Mathematics and Computation, vol. 262, Elsevier, July 2015, pp. 178–86, doi:[10.1016/j.amc.2015.04.004](https://doi.org/10.1016/j.amc.2015.04.004).
@@ -42,13 +44,19 @@ Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Per
 
 Rajšp, Alen, and Iztok Jr. Fister. “[A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training](https://www.mdpi.com/2076-3417/10/9/3013).” Applied Sciences, vol. 10, no. 9, Multidisciplinary Digital Publishing Institute, Apr. 2020, p. 3013, doi:[10.3390/app10093013](https://doi.org/10.3390/app10093013).
 
+Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://link.springer.com/chapter/10.1007/978-3-030-99333-7_9).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
+
 ## Research papers
+
+Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://www.sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003])(https://doi.org/10.2478/ijcss-2022-0003).
 
 Attigala, D. A., et al. “[Intelligent Trainer for Athletes Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/8940477).” 2019 International Conference on Computing, Power and Communication Technologies (GUCON), 2019, pp. 898–903.
 
 Barshan, Billur, and M. C. Yuksek. “[Recognizing Daily and Sports Activities in Two Open Source Machine Learning Environments Using Body-Worn Sensor Units](https://ieeexplore.ieee.org/abstract/document/8130901).” The Computer Journal, vol. 57, no. 11, Oxford University Press, Nov. 2014, pp. 1649–67, doi:[10.1093/comjnl/bxt075])(https://doi.org/10.1093/comjnl/bxt075).
 
 Carey, David L., et al. “[Optimizing Preseason Training Loads in Australian Football](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p194.xml).” International Journal of Sports Physiology and Performance, vol. 13, no. 2, Human Kinetics, Feb. 2018, pp. 194–99, doi:[10.1123/ijspp.2016-0695](https://doi.org/10.1123/ijspp.2016-0695).
+
+Chacoma, Andrés, and Orlando V Billoni. “[Simple Mechanism Rules the Dynamics of Volleyball](http://arxiv.org/abs/2202.13765).” ArXiv, Feb. 2022, [http://arxiv.org/abs/2202.13765](http://arxiv.org/abs/2202.13765).
 
 Chen, Shuxi, et al. “[Detecting Sports Fatigue from Speech by Support Vector Machine](https://ieeexplore.ieee.org/abstract/document/7586626).” 2016 8th IEEE International Conference on Communication Software and Networks (ICCSN), IEEE, 2016, pp. 96–99, doi:[10.1109/ICCSN.2016.7586626](https://doi.org/10.1109/ICCSN.2016.7586626).
 
@@ -64,6 +72,8 @@ Deng, Huijian, et al. “[Prediction of Sports Aggression Behavior and Analysis 
 
 Ding, Xianqiong, et al. “[Sports Training Model Based on GA Optimized Neural Network](https://ieeexplore.ieee.org/abstract/document/9526701).” Proceedings - 2020 13th International Conference on Intelligent Computation Technology and Automation, ICICTA 2020, Institute of Electrical and Electronics Engineers Inc., Oct. 2020, pp. 227–30, doi:[10.1109/ICICTA51737.2020.00055](https://doi.org/10.1109/ICICTA51737.2020.00055).
 
+Eriksson, Rikard, et al. “[Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://link.springer.com/chapter/10.1007/978-3-030-99333-7_9).” Proceedings of the 9th International Performance Analysis Workshop and Conference & 5th IACSS Conference, edited by Arnold Baca et al., Springer, Cham, 2022, pp. 61–68, doi:[10.1007/978-3-030-99333-7_9](https://doi.org/10.1007/978-3-030-99333-7_9).
+
 Farrokhi, Alireza, et al. “[A Decision Tree-Based Smart Fitness Framework in IoT](https://link.springer.com/article/10.1007/s42979-021-00940-x).” SN Computer Science, vol. 3, no. 1, Springer, Jan. 2022, p. 2, doi:[10.1007/s42979-021-00940-x](https://doi.org/10.1007/s42979-021-00940-x).
 
 Feely, Ciara, et al. “[A Case-Based Reasoning Approach to Predicting and Explaining Running Related Injuries]((https://link.springer.com/chapter/10.1007/978-3-030-86957-1_6)).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12877 LNAI, Springer, Cham, 2021, pp. 79–93, doi:[10.1007/978-3-030-86957-1_6](https://doi.org/10.1007/978-3-030-86957-1_6).
@@ -76,9 +86,11 @@ Fidelis, J. Vijay, and E. Karthikeyan. “[Player Management in Soccer Using Par
 
 Fister, Dušan, et al. "[Visualization of cycling training](http://www.iztok-jr-fister.eu/static/publications/160.pdf)." Proceedings of the StuCoSReC: 3rd Student Computer Science Research Conference, Koper, Slovenia. 2016.
 
+Fister, Iztok, et al. [Framework for Planning the Training Sessions in Triathlon](https://dl.acm.org/doi/abs/10.1145/3205651.3208242).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2018, pp. 1829–34, doi:[10.1145/3205651.3208242](https://doi.org/10.1145/3205651.3208242).
+
 Fister, Iztok, et al. “[Planning the Sports Training Sessions with the Bat Algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009710).” Neurocomputing, vol. 149, no. PB, Elsevier, Feb. 2015, pp. 993–1002, doi:[10.1016/J.NEUCOM.2014.07.034](https://doi.org/10.1016/j.neucom.2014.07.034).
 
-Fister, Iztok, et al. [Framework for Planning the Training Sessions in Triathlon](https://dl.acm.org/doi/abs/10.1145/3205651.3208242).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2018, pp. 1829–34, doi:[10.1145/3205651.3208242](https://doi.org/10.1145/3205651.3208242).
+Fister, Iztok, et al. “[Synthetic Data Augmentation of Cycling Sport Training Datasets](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_7).” Lecture Notes in Networks and Systems, vol. 371, Springer Science and Business Media Deutschland GmbH, 2022, pp. 65–74, doi:[10.1007/978-3-030-93247-3_7/COVER](https://doi.org/10.1007/978-3-030-93247-3_7/COVER).
 
 Fister Jr, Iztok, et al. “[New Perspectives in the Development of the Artificial Sport Trainer](https://www.mdpi.com/2076-3417/11/23/11452/htm).” Applied Sciences, vol. 11, no. 23, Multidisciplinary Digital Publishing Institute, Dec. 2021, p. 11452, doi:[10.3390/app112311452](https://doi.org/10.3390/app112311452).
 
@@ -95,8 +107,6 @@ Fister Jr, Iztok, and Iztok Fister. “[Generating the Training Plans Based on E
 Fister Jr, Iztok, et al. “[Population-Based Metaheuristics for Planning Interval Training Sessions in Mountain Biking](https://link.springer.com/chapter/10.1007/978-3-030-26369-0_7).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 11655 LNCS, Springer, Cham, 2019, pp. 70–79, doi:[10.1007/978-3-030-26369-0_7](https://doi.org/10.1007/978-3-030-26369-0_7).
 
 Fister Jr, Iztok, et al. “[Discovering Dependencies among Mined Association Rules with Population-Based Metaheuristics](https://dl.acm.org/doi/abs/10.1145/3319619.3326833).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2019, pp. 1668–74, doi:[10.1145/3319619.3326833](https://doi.org/10.1145/3319619.3326833).
-
-Chen, Shuxi, et al. “Detecting Sports Fatigue from Speech by Support Vector Machine.” 2016 8th IEEE International Conference on Communication Software and Networks (ICCSN), IEEE, 2016, pp. 96–99, doi:[10.1109/ICCSN.2016.7586626](https://doi.org/).
 
 Kipp, Kristof, et al. “[Use of Machine Learning to Model Volume Load Effects on Changes in Jump Performance](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p285.xml?utm_source=TrendMD&utm_medium=cpc&utm_campaign=International_Journal_of_Sports_Physiology_and_Performance_TrendMD_1).” International Journal of Sports Physiology and Performance, vol. 15, no. 2, Human Kinetics, Feb. 2020, pp. 285–87, doi:[10.1123/IJSPP.2019-0009](https://doi.org/10.1123/IJSPP.2019-0009).
 
@@ -134,6 +144,8 @@ Rajšp, Alen, and Iztok Jr Fister. “[Discovering the Influence of Interruption
 Rauter, Samo. “[New Approach for Planning the Mountain Bike Training with Virtual Coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf).” Trends in Sport Sciences, vol. 2, no. 25, 2018, pp. 69–74, doi:[10.23829/TSS.2018.25.2-2](https://doi.org/10.23829/TSS.2018.25.2-2).
 
 Schaefer, David, et al. “[Training Plan Evolution Based on Training Models](https://ieeexplore.ieee.org/abstract/document/7276739).” 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA), IEEE, 2015, pp. 1–8, doi:[10.1109/INISTA.2015.7276739](https://doi.org/10.1109/INISTA.2015.7276739).
+
+Sen, Anik, et al. “[Sequence Recognition of Indoor Tennis Actions Using Transfer Learning and Long Short-Term Memory](https://link.springer.com/chapter/10.1007/978-3-031-06381-7_22).” Frontiers of Computer Vision, 28th International Workshop, IW-FCV 2022, edited by Kazuhiko Sumi et al., Springer, Cham, 2022, pp. 312–24, doi:[10.1007/978-3-031-06381-7_22](https://doi.org/10.1007/978-3-031-06381-7_22).
 
 Silacci, Alessandro, et al. “[Designing an E-Coach to Tailor Training Plans for Road Cyclists](https://link.springer.com/chapter/10.1007/978-3-030-27928-8_102).” Advances in Intelligent Systems and Computing, vol. 1026, Springer, Cham, 2020, pp. 671–77, doi:[10.1007/978-3-030-27928-8_102](https://doi.org/10.1007/978-3-030-27928-8_102).
 
