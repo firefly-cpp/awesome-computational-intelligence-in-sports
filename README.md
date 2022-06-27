@@ -141,6 +141,8 @@ Podgorelec, Vili, et al. “[Classification of Similar Sports Images Using Convo
 
 Rajšp, Alen, and Iztok Jr Fister. “[Discovering the Influence of Interruptions in Cycling Training: A Data Science Study](https://link.springer.com/chapter/10.1007/978-3-030-77970-2_32).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12745 LNCS, Springer, Cham, 2021, pp. 420–432, doi:[10.1007/978-3-030-77970-2_32](https://doi.org/10.1007/978-3-030-77970-2_32).
 
+Rajšp, Alen, et al. “[Preprocessing of Roads in OpenStreetMap Based Geographic Data on a Property Graph](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/IS/IS3.pdf).” Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, 2921, pp. 193–99.
+
 Rauter, Samo. “[New Approach for Planning the Mountain Bike Training with Virtual Coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf).” Trends in Sport Sciences, vol. 2, no. 25, 2018, pp. 69–74, doi:[10.23829/TSS.2018.25.2-2](https://doi.org/10.23829/TSS.2018.25.2-2).
 
 Schaefer, David, et al. “[Training Plan Evolution Based on Training Models](https://ieeexplore.ieee.org/abstract/document/7276739).” 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA), IEEE, 2015, pp. 1–8, doi:[10.1109/INISTA.2015.7276739](https://doi.org/10.1109/INISTA.2015.7276739).
