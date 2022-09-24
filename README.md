@@ -213,7 +213,7 @@ Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ 
 ## Software
 
 * [ast-monitor](https://github.com/firefly-cpp/AST-Monitor): A wearable Raspberry Pi computer for cyclists
-* [ast-tdl](ttps://github.com/firefly-cpp/ast-tdl): Training Description Language
+* [ast-tdl](https://github.com/firefly-cpp/ast-tdl): Training Description Language
 * [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features): A minimalistic toolbox for extracting features from sport activity files written in Python
 * [txreader](https://github.com/alenrajsp/tcxreader): reader / parser for Garmin’s TCX file format.
 * [tcxparser](https://github.com/vkurup/python-tcxparser): Simple parser for Garmin TCX files
