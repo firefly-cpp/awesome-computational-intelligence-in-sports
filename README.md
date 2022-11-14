@@ -40,6 +40,8 @@ Farrokhi, Alireza, et al. “[Application of Internet of Things and Artificial I
 
 Fister, Iztok, et al. “[Computational Intelligence in Sports: Challenges and Opportunities within a New Research Domain](https://www.sciencedirect.com/science/article/abs/pii/S0096300315004300).” Applied Mathematics and Computation, vol. 262, Elsevier, July 2015, pp. 178–86, doi:[10.1016/j.amc.2015.04.004](https://doi.org/10.1016/j.amc.2015.04.004).
 
+Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machine Learning: A Literature Review](https://ieeexplore.ieee.org/abstract/document/9857881).” IEEE Access, vol. 10, 2022, pp. 86874–903, doi:[10.1109/ACCESS.2022.3198935](https://doi.org/10.1109/ACCESS.2022.3198935).
+
 Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
 
 Rajšp, Alen, and Iztok Jr. Fister. “[A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training](https://www.mdpi.com/2076-3417/10/9/3013).” Applied Sciences, vol. 10, no. 9, Multidisciplinary Digital Publishing Institute, Apr. 2020, p. 3013, doi:[10.3390/app10093013](https://doi.org/10.3390/app10093013).
@@ -109,8 +111,6 @@ Fister Jr, Iztok, et al. “[Population-Based Metaheuristics for Planning Interv
 Fister Jr, Iztok, et al. “[Discovering Dependencies among Mined Association Rules with Population-Based Metaheuristics](https://dl.acm.org/doi/abs/10.1145/3319619.3326833).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2019, pp. 1668–74, doi:[10.1145/3319619.3326833](https://doi.org/10.1145/3319619.3326833).
 
 Kipp, Kristof, et al. “[Use of Machine Learning to Model Volume Load Effects on Changes in Jump Performance](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p285.xml?utm_source=TrendMD&utm_medium=cpc&utm_campaign=International_Journal_of_Sports_Physiology_and_Performance_TrendMD_1).” International Journal of Sports Physiology and Performance, vol. 15, no. 2, Human Kinetics, Feb. 2020, pp. 285–87, doi:[10.1123/IJSPP.2019-0009](https://doi.org/10.1123/IJSPP.2019-0009).
-
-Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machine Learning: A Literature Review](https://ieeexplore.ieee.org/abstract/document/9857881).” IEEE Access, vol. 10, 2022, pp. 86874–903, doi:[10.1109/ACCESS.2022.3198935](https://doi.org/10.1109/ACCESS.2022.3198935).
 
 Kumyaito, Nattapon, et al. “[Planning a Sports Training Program Using Adaptive Particle Swarm Optimization with Emphasis on Physiological Constraints](10.1186/s13104-017-3120-9).” BMC Research Notes, vol. 11, no. 1, Dec. 2018, p. 9, doi:[10.1186/s13104-017-3120-9](https://doi.org/10.1186/s13104-017-3120-9).
 
