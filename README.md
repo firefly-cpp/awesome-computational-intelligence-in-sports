@@ -44,9 +44,12 @@ Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machi
 
 Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
 
+Nalbant, Kemal Gökhan, and Sevgi Aydın. “[Literature Review on the Relationship between Artificial Intelligence Technologies with Digital Sports Marketing and Sports Management](https://ejournal.unma.ac.id/index.php/ijsm/article/view/2876)”. Indonesian Journal of Sport Management, vol. 2, no. 2, Oct. 2022, pp. 135–43, doi:[10.31949/ijsm.v2i2.2876](https://doi.org/10.31949/ijsm.v2i2.2876).
+
 Rajšp, Alen, and Iztok Jr. Fister. “[A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training](https://www.mdpi.com/2076-3417/10/9/3013).” Applied Sciences, vol. 10, no. 9, Multidisciplinary Digital Publishing Institute, Apr. 2020, p. 3013, doi:[10.3390/app10093013](https://doi.org/10.3390/app10093013).
 
 Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://link.springer.com/chapter/10.1007/978-3-030-99333-7_9).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
+
 
 ## Research papers
 
@@ -118,6 +121,8 @@ Joshi, Ketan, et al. “[Robust Sports Image Classification Using InceptionV3 an
 
 Langaroudi, Milad Keshtkar, and Mohammad Reza Yamaghani. “[Sports Result Prediction Based on Machine Learning and Computational Intelligence Approaches: A Survey](https://jacet.srbiau.ac.ir/article_13599.html).” Journal of Advances in Computer Engineering and Technology, vol. 5, no. 1, 2019, pp. 27–36.
 
+Lee, Geon Ju, et al. “[Exploiting Weighted Association Rule Mining for Indicating Synergic Formation Tactics in Soccer Teams](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6221)”. Concurrency and Computation: Practice and Experience, 2021, p. e6221, doi:[10.1002/CPE.6221](https://doi.org/10.1002/CPE.6221).
+
 Li, Gang, and Tongzhou Zhao. “[Approach of Intelligence Question-Answering System Based on Physical Fitness Knowledge Graph](https://ieeexplore.ieee.org/abstract/document/9638824).” 2021 4th International Conference on Robotics, Control and Automation Engineering (RCAE), IEEE, 2021, pp. 191–95, doi:[10.1109/RCAE53607.2021.9638824](https://doi.org/10.1109/RCAE53607.2021.9638824).
 
 Liu, Yu, et al. “[Design and Implementation of Concurrent Optimization Schemes for Sports Health Prediction Platform](https://www.computer.org/csdl/proceedings-article/icdh/2018/949700a208/17D45WrVgdj).” 2018 7th International Conference on Digital Home (ICDH), IEEE, 2018, pp. 208–12, doi:[10.1109/ICDH.2018.00044](https://doi.org/10.1109/ICDH.2018.00044).
@@ -126,6 +131,8 @@ Lopez-Gomez, Julio Alberto, et al. “[A Feature-Weighting Approach Using Metahe
 
 Lukac, Luka, et al. “[A Minimalistic Toolbox for Extracting Features from Sport Activity Files](https://ieeexplore.ieee.org/abstract/document/9512927).” 2021 IEEE 25th International Conference on Intelligent Engineering Systems (INES), IEEE, 2021, pp. 000121–26, doi:[10.1109/INES52918.2021.9512927](https://doi.org/10.1109/INES52918.2021.9512927).
 *[GitHub repository](https://github.com/firefly-cpp/sport-activities-features)*
+
+Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](https://www.mdpi.com/2076-3417/12/24/12741)”. Applied Sciences, vol. 12, no. 24, Dec. 2022, p. 12741, doi:[10.3390/app122412741](https://doi.org/10.3390/app122412741).
 
 Matabuena, Marcos, and Rosana Rodríguez-López. “[An Improved Version of the Classical Banister Model to Predict Changes in Physical Condition](https://link.springer.com/article/10.1007/s11538-019-00588-y).” Bulletin of Mathematical Biology, vol. 81, no. 6, Springer New York LLC, June 2019, pp. 1867–84, doi:[10.1007/S11538-019-00588-Y](https://doi.org/10.1007/s11538-019-00588-y).
 
@@ -140,6 +147,8 @@ Ofoghi, Bahadorreza, et al. “[Modelling and Analysing Track Cycling Omnium Per
 Pappalardo, Luca, et al. “[PlayeRank: Data-Driven Performance Evaluation and Player Ranking in Soccer via a Machine Learning Approach](https://dl.acm.org/doi/abs/10.1145/3343172).” ACM Transactions on Intelligent Systems and Technology, vol. 10, no. 5, ACM PUB27 New York, NY, USA, Sept. 2019, pp. 1–27, doi:[10.1145/3343172](https://doi.org/10.1145/3343172).
 
 Podgorelec, Vili, et al. “[Classification of Similar Sports Images Using Convolutional Neural Network with Hyper-Parameter Optimization](https://www.mdpi.com/2076-3417/10/23/8494).” Applied Sciences, vol. 10, no. 23, Multidisciplinary Digital Publishing Institute, Nov. 2020, p. 8494, doi:[10.3390/app10238494](https://doi.org/10.3390/app10238494).
+
+Rajsp, Alen, and Iztok Jr Fister. “[A Modified Evolutionary Algorithm for Generating the Cycling Training Routes](https://ieeexplore.ieee.org/abstract/document/9919828)”. IEEE Access, vol. 10, 2022, pp. 109743–59, doi:[10.1109/ACCESS.2022.3214997](https://doi.org/10.1109/ACCESS.2022.3214997).
 
 Rajšp, Alen, and Iztok Jr Fister. “[Discovering the Influence of Interruptions in Cycling Training: A Data Science Study](https://link.springer.com/chapter/10.1007/978-3-030-77970-2_32).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12745 LNCS, Springer, Cham, 2021, pp. 420–432, doi:[10.1007/978-3-030-77970-2_32](https://doi.org/10.1007/978-3-030-77970-2_32).
 
@@ -157,12 +166,19 @@ Silacci, Alessandro, et al. “[Towards an AI-Based Tailored Training Planning f
 
 Smyth, Barry, et al. “[Recommendations for Marathon Runners: On the Application of Recommender Systems and Machine Learning to Support Recreational Marathon Runners](https://link.springer.com/article/10.1007/s11257-021-09299-3).” User Modeling and User-Adapted Interaction, Springer, Aug. 2021, pp. 1–52, doi:[10.1007/s11257-021-09299-3](https://doi.org/10.1007/s11257-021-09299-3).
 
+Stöckl, Michael, and Stuart Morgan. “[Visualization and Analysis of Spatial Characteristics of Attacks in Field Hockey](https://www.tandfonline.com/doi/abs/10.1080/24748668.2013.11868639)”. International Journal of Performance Analysis in Sport, vol. 13, no. 1, Apr. 2013, pp. 160–78, doi:[10.1080/24748668.2013.11868639](https://doi.org/10.1080/24748668.2013.11868639).
+
 Teikari, Petteri, and Aleksandra Pietrusz. “[Precision Strength Training: Data-Driven Artificial Intelligence Approach to Strength and Conditioning](https://osf.io/preprints/sportrxiv/w734a/).” SportRxiv, 2021, doi:[10.31236/OSF.IO/W734A](https://doi.org/10.31236/OSF.IO/W734A). Preprint.
 
 Van Bulck, David, et al. “[Result-Based Talent Identification in Road Cycling: Discovering the next Eddy Merckx](https://link.springer.com/article/10.1007/s10479-021-04280-0).” Annals of Operations Research, Springer, Oct. 2021, pp. 1–18, doi:[10.1007/s10479-021-04280-0](https://doi.org/10.1007/s10479-021-04280-0).
 
+Xiong, Shengyao, and Xinwei Li. “[Intelligent Strategy of Internet of Things Computing in Badminton Sports Activities](https://www.hindawi.com/journals/wcmc/2022/9409151/)”. Wireless Communications and Mobile Computing, edited by Venkateswaran N, vol. 2022, Oct. 2022, pp. 1–9, doi:[10.1155/2022/9409151](https://doi.org/10.1155/2022/9409151).
+
+Zaib, Ali, and Muhammad Talal Ahmad. “[Research on Biomechanical Analysis of Football Player Using Information Technology in Sports Field](https://www.rpd-online.com/index.php/rpd/article/view/761)”. Revista de Psicología Del Deporte (Journal of Sport Psychology), vol. 31, no. 3, Oct. 2022, pp. 21–30.
+
 Zhang, Yuwang, and Yuan Zhang. “[Sports Training System Based on Convolutional Neural Networks and Data Mining](https://www.hindawi.com/journals/cin/2021/1331759/).” Computational Intelligence and Neuroscience, vol. 2021, Hindawi Limited, 2021, doi:[10.1155/2021/1331759](https://doi.org/10.1155/2021/1331759).
 
+Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w)”. Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
 
 ## Dissertation or thesis
 
