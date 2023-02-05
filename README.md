@@ -34,7 +34,7 @@ Bonidia, Robson P., et al. “[Data Mining in Sports: A Systematic Review](https
 
 Bonidia, Robson P., et al. “[Computational Intelligence in Sports: A Systematic Literature Review](https://www.hindawi.com/journals/ahci/2018/3426178/).” Advances in Human-Computer Interaction, vol. 2018, Hindawi Limited, Oct. 2018, pp. 1–13, doi:[10.1155/2018/3426178](https://doi.org/10.1155/2018/3426178).
 
-Bunker, Rory, and Teo Susnjak. “[The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://www.jair.org/index.php/jair/article/view/13509).” Journal of Artificial Intelligence Research, vol. 73, AI Access Foundation, Apr. 2022, pp. 1285–322, doi:[10.1613/JAIR.1.13509])(https://doi.org/10.1613/JAIR.1.13509).
+Bunker, Rory, and Teo Susnjak. “[The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://www.jair.org/index.php/jair/article/view/13509).” Journal of Artificial Intelligence Research, vol. 73, AI Access Foundation, Apr. 2022, pp. 1285–322, doi:[10.1613/JAIR.1.13509](https://doi.org/10.1613/JAIR.1.13509).
 
 Farrokhi, Alireza, et al. “[Application of Internet of Things and Artificial Intelligence for Smart Fitness: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621000360).” Computer Networks, vol. 189, Elsevier, Apr. 2021, p. 107859, doi:[10.1016/j.comnet.2021.107859](https://doi.org/10.1016/j.comnet.2021.107859).
 
@@ -113,6 +113,8 @@ Fister Jr, Iztok, et al. “[Population-Based Metaheuristics for Planning Interv
 
 Fister Jr, Iztok, et al. “[Discovering Dependencies among Mined Association Rules with Population-Based Metaheuristics](https://dl.acm.org/doi/abs/10.1145/3319619.3326833).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2019, pp. 1668–74, doi:[10.1145/3319619.3326833](https://doi.org/10.1145/3319619.3326833).
 
+Frevel, Nicolas, et al. “[The Impact of Technology on Sports – A Prospective Study](https://www.sciencedirect.com/science/article/abs/pii/S0040162522003626?via%3Dihub).” Technological Forecasting and Social Change, vol. 182, Sept. 2022, p. 121838. ScienceDirect, doi:[10.1016/j.techfore.2022.121838](https://doi.org/10.1016/j.techfore.2022.121838).
+
 Kipp, Kristof, et al. “[Use of Machine Learning to Model Volume Load Effects on Changes in Jump Performance](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p285.xml?utm_source=TrendMD&utm_medium=cpc&utm_campaign=International_Journal_of_Sports_Physiology_and_Performance_TrendMD_1).” International Journal of Sports Physiology and Performance, vol. 15, no. 2, Human Kinetics, Feb. 2020, pp. 285–87, doi:[10.1123/IJSPP.2019-0009](https://doi.org/10.1123/IJSPP.2019-0009).
 
 Kumyaito, Nattapon, et al. “[Planning a Sports Training Program Using Adaptive Particle Swarm Optimization with Emphasis on Physiological Constraints](10.1186/s13104-017-3120-9).” BMC Research Notes, vol. 11, no. 1, Dec. 2018, p. 9, doi:[10.1186/s13104-017-3120-9](https://doi.org/10.1186/s13104-017-3120-9).
@@ -136,6 +138,8 @@ Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](htt
 
 Matabuena, Marcos, and Rosana Rodríguez-López. “[An Improved Version of the Classical Banister Model to Predict Changes in Physical Condition](https://link.springer.com/article/10.1007/s11538-019-00588-y).” Bulletin of Mathematical Biology, vol. 81, no. 6, Springer New York LLC, June 2019, pp. 1867–84, doi:[10.1007/S11538-019-00588-Y](https://doi.org/10.1007/s11538-019-00588-y).
 
+Moutaouakil, Karim El, et al. “[Quadratic Programming and Triangular Numbers Ranking to an Optimal Moroccan Diet with Minimal Glycemic Load](http://iapress.org/index.php/soic/article/view/1541).” Statistics, Optimization & Information Computing, vol. 11, no. 1, 1, Jan. 2023, pp. 85–94. iapress.org, doi:[10.19139/soic-2310-5070-1541](https://doi.org/10.19139/soic-2310-5070-1541).
+
 Mutijarsa, Kusprasapta, et al. “[Heart Rate Prediction Based on Cycling Cadence Using Feedforward Neural Network.](https://ieeexplore.ieee.org/abstract/document/7863026)” 2016 International Conference on Computer, Control, Informatics and Its Applications (IC3INA), IEEE, 2016, pp. 72–76, doi:[10.1109/IC3INA.2016.7863026](https://doi.org/10.1109/IC3INA.2016.7863026).
 
 Novatchkov, Hristo, and Arnold Baca. “[Artificial Intelligence in Sports on the Example of Weight Training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761781/).” Journal of Sports Science & Medicine, vol. 12, no. 1, Dept. of Sports Medicine, Medical Faculty of Uludag University, Mar. 2013, pp. 27–37, pmid:(24149722)[http://www.ncbi.nlm.nih.gov/pubmed/24149722].
@@ -156,6 +160,8 @@ Rajšp, Alen, et al. “[Preprocessing of Roads in OpenStreetMap Based Geographi
 
 Rauter, Samo. “[New Approach for Planning the Mountain Bike Training with Virtual Coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf).” Trends in Sport Sciences, vol. 2, no. 25, 2018, pp. 69–74, doi:[10.23829/TSS.2018.25.2-2](https://doi.org/10.23829/TSS.2018.25.2-2).
 
+Sakabe, Hibiki, and Yohei Nakada. “[Computational Method for Determining Optimal Dribbling Routes in Basketball](https://ieeexplore.ieee.org/abstract/document/9999118).” 2022 IEEE Eighth International Conference on Multimedia Big Data (BigMM), 2022, pp. 107–08. IEEE Xplore, doi:[10.1109/BigMM55396.2022.00024](https://doi.org/10.1109/BigMM55396.2022.00024).
+
 Schaefer, David, et al. “[Training Plan Evolution Based on Training Models](https://ieeexplore.ieee.org/abstract/document/7276739).” 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA), IEEE, 2015, pp. 1–8, doi:[10.1109/INISTA.2015.7276739](https://doi.org/10.1109/INISTA.2015.7276739).
 
 Sen, Anik, et al. “[Sequence Recognition of Indoor Tennis Actions Using Transfer Learning and Long Short-Term Memory](https://link.springer.com/chapter/10.1007/978-3-031-06381-7_22).” Frontiers of Computer Vision, 28th International Workshop, IW-FCV 2022, edited by Kazuhiko Sumi et al., Springer, Cham, 2022, pp. 312–24, doi:[10.1007/978-3-031-06381-7_22](https://doi.org/10.1007/978-3-031-06381-7_22).
@@ -173,6 +179,8 @@ Teikari, Petteri, and Aleksandra Pietrusz. “[Precision Strength Training: Data
 Van Bulck, David, et al. “[Result-Based Talent Identification in Road Cycling: Discovering the next Eddy Merckx](https://link.springer.com/article/10.1007/s10479-021-04280-0).” Annals of Operations Research, Springer, Oct. 2021, pp. 1–18, doi:[10.1007/s10479-021-04280-0](https://doi.org/10.1007/s10479-021-04280-0).
 
 Xiong, Shengyao, and Xinwei Li. “[Intelligent Strategy of Internet of Things Computing in Badminton Sports Activities](https://www.hindawi.com/journals/wcmc/2022/9409151/)”. Wireless Communications and Mobile Computing, edited by Venkateswaran N, vol. 2022, Oct. 2022, pp. 1–9, doi:[10.1155/2022/9409151](https://doi.org/10.1155/2022/9409151).
+
+Yashiro, Kotaro, and Yohei Nakada. “[Fast Implementation for Computational Method of Optimum Attacking Play in Rugby Sevens](https://link.springer.com/chapter/10.1007/978-981-19-0836-1_8).” Modeling, Simulation and Optimization, edited by Biplab Das et al., Springer Nature, 2022, pp. 97–109. Springer Link, doi:[10.1007/978-981-19-0836-1_8](https://doi.org/10.1007/978-981-19-0836-1_8).
 
 Zaib, Ali, and Muhammad Talal Ahmad. “[Research on Biomechanical Analysis of Football Player Using Information Technology in Sports Field](https://www.rpd-online.com/index.php/rpd/article/view/761)”. Revista de Psicología Del Deporte (Journal of Sport Psychology), vol. 31, no. 3, Oct. 2022, pp. 21–30.
 
