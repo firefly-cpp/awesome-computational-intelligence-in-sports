@@ -148,7 +148,7 @@ Moutaouakil, Karim El, et al. “[Quadratic Programming and Triangular Numbers R
 
 Mutijarsa, Kusprasapta, et al. “[Heart Rate Prediction Based on Cycling Cadence Using Feedforward Neural Network.](https://ieeexplore.ieee.org/abstract/document/7863026)” 2016 International Conference on Computer, Control, Informatics and Its Applications (IC3INA), IEEE, 2016, pp. 72–76, doi:[10.1109/IC3INA.2016.7863026](https://doi.org/10.1109/IC3INA.2016.7863026).
 
-Novatchkov, Hristo, and Arnold Baca. “[Artificial Intelligence in Sports on the Example of Weight Training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761781/).” Journal of Sports Science & Medicine, vol. 12, no. 1, Dept. of Sports Medicine, Medical Faculty of Uludag University, Mar. 2013, pp. 27–37, pmid:(24149722)[http://www.ncbi.nlm.nih.gov/pubmed/24149722].
+Novatchkov, Hristo, and Arnold Baca. “[Artificial Intelligence in Sports on the Example of Weight Training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761781/).” Journal of Sports Science & Medicine, vol. 12, no. 1, Dept. of Sports Medicine, Medical Faculty of Uludag University, Mar. 2013, pp. 27–37, pmid:[24149722](http://www.ncbi.nlm.nih.gov/pubmed/24149722).
 
 Novatchkov, Hristo, and Arnold Baca. “[Fuzzy Logic in Sports: A Review and an Illustrative Case Study in the Field of Strength Training](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.2519&rep=rep1&type=pdf).” International Journal of Computer Applications, vol. 71, no. 6, 2013, pp. 8–14.
 
