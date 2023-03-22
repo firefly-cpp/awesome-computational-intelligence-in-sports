@@ -4,8 +4,8 @@ List is mainly composed from the methods that are based on evolutionary algorith
 
 ---
 
-# Contents
-- [Contents](#contents)
+# Table of Contents
+- [Table of Contents](#Table-of-Contents)
   - [Books](#books)
   - [Review papers](#review-papers)
   - [Research papers](#research-papers)
