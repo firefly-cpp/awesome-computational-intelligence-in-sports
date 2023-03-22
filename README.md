@@ -1,7 +1,6 @@
 # Awesome Collection Of Literature On The Use Of Computational Intelligence Methods In Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-- [Contents](#Contents)
 - [Books](#Books)
 - [Review papers](#Review-papers)
 - [Research papers](#Research-papers)
@@ -16,7 +15,6 @@
   - [Wrestling](#Wrestling)
 - [Software](#Software)
 - [Web applications](#Web-applications)
-- [Contributing](#Contributing)
 
 ---
 
