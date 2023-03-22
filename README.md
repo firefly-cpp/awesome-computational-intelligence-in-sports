@@ -1,11 +1,10 @@
-# A collection of literature on the use of computational intelligence methods in sports
+# Awesome Collection of Literature on the use of Computational Intelligence Methods in Sports
 
 List is mainly composed from the methods that are based on evolutionary algorithms, artificial neural networks, fuzzy systems and swarm intelligence algorithms. Cited with Mendeley in the MLA 8th edition format.
 
 ---
 
 # Contents
-- [A collection of literature on the use of computational intelligence methods in sports](#a-collection-of-literature-on-the-use-of-computational-intelligence-methods-in-sports)
 - [Contents](#contents)
   - [Books](#books)
   - [Review papers](#review-papers)
