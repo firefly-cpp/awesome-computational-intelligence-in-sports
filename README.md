@@ -51,7 +51,7 @@ Nalbant, Kemal Gökhan, and Sevgi Aydın. “[Literature Review on the Relations
 
 Rajšp, Alen, and Iztok Jr. Fister. “[A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training](https://www.mdpi.com/2076-3417/10/9/3013).” Applied Sciences, vol. 10, no. 9, Multidisciplinary Digital Publishing Institute, Apr. 2020, p. 3013, doi:[10.3390/app10093013](https://doi.org/10.3390/app10093013).
 
-Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://link.springer.com/chapter/10.1007/978-3-030-99333-7_9).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
+Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
 
 
 ## Research papers
