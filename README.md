@@ -58,7 +58,7 @@ Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footbal
 
 Adeyemo, Victor Elijah, et al. “[Identification of Pattern Mining Algorithm for Rugby League Players Positional Groups Separation Based on Movement Patterns](http://arxiv.org/abs/2302.14058)”. ArXiv, Feb. 2023, p. 2023, http://arxiv.org/abs/2302.14058.
 
-Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003])(https://doi.org/10.2478/ijcss-2022-0003).
+Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003](https://doi.org/10.2478/ijcss-2022-0003).
 
 Attigala, D. A., et al. “[Intelligent Trainer for Athletes Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/8940477).” 2019 International Conference on Computing, Power and Communication Technologies (GUCON), 2019, pp. 898–903.
 
@@ -66,7 +66,7 @@ Barshan, Billur, and M. C. Yuksek. “[Recognizing Daily and Sports Activities i
 
 Carey, David L., et al. “[Optimizing Preseason Training Loads in Australian Football](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p194.xml).” International Journal of Sports Physiology and Performance, vol. 13, no. 2, Human Kinetics, Feb. 2018, pp. 194–99, doi:[10.1123/ijspp.2016-0695](https://doi.org/10.1123/ijspp.2016-0695).
 
-Chacoma, Andrés, and Orlando V Billoni. “[Simple Mechanism Rules the Dynamics of Volleyball](http://arxiv.org/abs/2202.13765).” ArXiv, Feb. 2022, [http://arxiv.org/abs/2202.13765](http://arxiv.org/abs/2202.13765).
+Chacoma, Andrés, and Orlando V Billoni. “[Simple Mechanism Rules the Dynamics of Volleyball](http://arxiv.org/abs/2202.13765).” ArXiv, Feb. 2022, http://arxiv.org/abs/2202.13765.
 
 Chen, Shuxi, et al. “[Detecting Sports Fatigue from Speech by Support Vector Machine](https://ieeexplore.ieee.org/abstract/document/7586626).” 2016 8th IEEE International Conference on Communication Software and Networks (ICCSN), IEEE, 2016, pp. 96–99, doi:[10.1109/ICCSN.2016.7586626](https://doi.org/10.1109/ICCSN.2016.7586626).
 
@@ -92,7 +92,7 @@ Ferencsik, Dorina K., and Erika B. Varga. “[Cycling Activity Dataset Creation 
 
 Fialho, Gabriel, et al. “[Predicting Sports Results with Artificial Intelligence – A Proposal Framework for Soccer Games](https://www.sciencedirect.com/science/article/pii/S1877050919322033).” Procedia Computer Science, vol. 164, Elsevier, Jan. 2019, pp. 131–36, doi:[10.1016/j.procs.2019.12.164](https://doi.org/10.1016/j.procs.2019.12.164).
 
-Fidelis, J. Vijay, and E. Karthikeyan. “[Player Management in Soccer Using Particle Swarm Optimization](https://www.sciencedirect.com/science/article/pii/S1877050919322033).” 4th International Conference on Electrical, Electronics, Communication, Computer Technologies and Optimization Techniques, ICEECCOT 2019, Institute of Electrical and Electronics Engineers Inc., Dec. 2019, pp. 303–08, doi:[10.1109/ICEECCOT46775.2019.9114599](https://doi.org/10.1109/ICEECCOT46775.2019.9114599).
+Fidelis, J. Vijay, and E. Karthikeyan. “[Player Management in Soccer Using Particle Swarm Optimization](https://ieeexplore.ieee.org/abstract/document/9114599).” 4th International Conference on Electrical, Electronics, Communication, Computer Technologies and Optimization Techniques, ICEECCOT 2019, Institute of Electrical and Electronics Engineers Inc., Dec. 2019, pp. 303–08, doi:[10.1109/ICEECCOT46775.2019.9114599](https://doi.org/10.1109/ICEECCOT46775.2019.9114599).
 
 Fister, Dušan, et al. "[Visualization of cycling training](http://www.iztok-jr-fister.eu/static/publications/160.pdf)." Proceedings of the StuCoSReC: 3rd Student Computer Science Research Conference, Koper, Slovenia. 2016.
 
@@ -139,7 +139,7 @@ Liu, Yu, et al. “[Design and Implementation of Concurrent Optimization Schemes
 Lopez-Gomez, Julio Alberto, et al. “[A Feature-Weighting Approach Using Metaheuristic Algorithms to Evaluate the Performance of Handball Goalkeepers](https://ieeexplore.ieee.org/abstract/document/9726167/).” IEEE Access, 2022, pp. 1–1, doi:[10.1109/ACCESS.2022.3156120](https://doi.org/10.1109/ACCESS.2022.3156120).
 
 Lukac, Luka, et al. “[A Minimalistic Toolbox for Extracting Features from Sport Activity Files](https://ieeexplore.ieee.org/abstract/document/9512927).” 2021 IEEE 25th International Conference on Intelligent Engineering Systems (INES), IEEE, 2021, pp. 000121–26, doi:[10.1109/INES52918.2021.9512927](https://doi.org/10.1109/INES52918.2021.9512927).
-*[GitHub repository](https://github.com/firefly-cpp/sport-activities-features)*
+*[GitHub repository](#software)*
 
 Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](https://www.mdpi.com/2076-3417/12/24/12741)”. Applied Sciences, vol. 12, no. 24, Dec. 2022, p. 12741, doi:[10.3390/app122412741](https://doi.org/10.3390/app122412741).
 
