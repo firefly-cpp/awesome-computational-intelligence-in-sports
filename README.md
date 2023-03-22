@@ -248,14 +248,14 @@ Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ 
 
 ## Software
 
-* [ast-monitor](https://github.com/firefly-cpp/AST-Monitor): A wearable Raspberry Pi computer for cyclists
-* [ast-tdl](https://github.com/firefly-cpp/ast-tdl): Training Description Language
-* [gpxpy](https://github.com/tkrajina/gpxpy): a simple Python library for parsing and manipulating GPX files.
-* [openant](https://github.com/Tigge/openant): ANT and ANT-FS Python Library
-* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features): A minimalistic toolbox for extracting features from sport activity files written in Python
-* [tcxreader](https://github.com/alenrajsp/tcxreader): reader / parser for Garmin’s TCX file format.
-* [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx): Python package for converting tcx GPS files to gpx files.
-* [python-tcxparser](https://github.com/vkurup/python-tcxparser): Simple parser for Garmin TCX files
+- [ast-monitor](https://github.com/firefly-cpp/AST-Monitor): A wearable Raspberry Pi computer for cyclists
+- [ast-tdl](https://github.com/firefly-cpp/ast-tdl): Training Description Language
+- [gpxpy](https://github.com/tkrajina/gpxpy): a simple Python library for parsing and manipulating GPX files.
+- [openant](https://github.com/Tigge/openant): ANT and ANT-FS Python Library
+- [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features): A minimalistic toolbox for extracting features from sport activity files written in Python
+- [tcxreader](https://github.com/alenrajsp/tcxreader): reader / parser for Garmin’s TCX file format.
+- [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx): Python package for converting tcx GPS files to gpx files.
+- [python-tcxparser](https://github.com/vkurup/python-tcxparser): Simple parser for Garmin TCX files
 
 ## Web applications
 
