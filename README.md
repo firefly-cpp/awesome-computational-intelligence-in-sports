@@ -204,7 +204,7 @@ Eriksson, Rikard, and Johan Nicander. [Automated Generation of Training Programs
 
 ## Tutorials
 
-Bock, Marius, et al. [Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663). Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://arxiv.org/abs/2110.06663).
+Bock, Marius, et al. [Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663). Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://doi.org/10.48550/arxiv.2110.06663).
 
 ## Perspectives
 
@@ -250,10 +250,10 @@ Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ 
 
 - [ast-monitor](https://github.com/firefly-cpp/AST-Monitor) - A wearable Raspberry Pi computer for cyclists.
 - [ast-tdl](https://github.com/firefly-cpp/ast-tdl) - Training Description Language.
-- [gpxpy](https://github.com/tkrajina/gpxpy) - a simple Python library for parsing and manipulating GPX files.
+- [gpxpy](https://github.com/tkrajina/gpxpy) - A simple Python library for parsing and manipulating GPX files.
 - [openant](https://github.com/Tigge/openant) - ANT and ANT-FS Python Library.
 - [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - A minimalistic toolbox for extracting features from sport activity files written in Python.
-- [tcxreader](https://github.com/alenrajsp/tcxreader) - reader / parser for Garmin's TCX file format.
+- [tcxreader](https://github.com/alenrajsp/tcxreader) - Reader / parser for Garmin's TCX file format.
 - [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
 - [python-tcxparser](https://github.com/vkurup/python-tcxparser) - Simple parser for Garmin TCX files.
 
