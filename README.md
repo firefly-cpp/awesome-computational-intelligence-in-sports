@@ -58,11 +58,11 @@ Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footbal
 
 Adeyemo, Victor Elijah, et al. “[Identification of Pattern Mining Algorithm for Rugby League Players Positional Groups Separation Based on Movement Patterns](http://arxiv.org/abs/2302.14058)”. ArXiv, Feb. 2023, p. 2023, http://arxiv.org/abs/2302.14058.
 
-Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://www.sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003])(https://doi.org/10.2478/ijcss-2022-0003).
+Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003])(https://doi.org/10.2478/ijcss-2022-0003).
 
 Attigala, D. A., et al. “[Intelligent Trainer for Athletes Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/8940477).” 2019 International Conference on Computing, Power and Communication Technologies (GUCON), 2019, pp. 898–903.
 
-Barshan, Billur, and M. C. Yuksek. “[Recognizing Daily and Sports Activities in Two Open Source Machine Learning Environments Using Body-Worn Sensor Units](https://ieeexplore.ieee.org/abstract/document/8130901).” The Computer Journal, vol. 57, no. 11, Oxford University Press, Nov. 2014, pp. 1649–67, doi:[10.1093/comjnl/bxt075])(https://doi.org/10.1093/comjnl/bxt075).
+Barshan, Billur, and M. C. Yuksek. “[Recognizing Daily and Sports Activities in Two Open Source Machine Learning Environments Using Body-Worn Sensor Units](https://ieeexplore.ieee.org/abstract/document/8130901).” The Computer Journal, vol. 57, no. 11, Oxford University Press, Nov. 2014, pp. 1649–67, doi:[10.1093/comjnl/bxt075](https://doi.org/10.1093/comjnl/bxt075).
 
 Carey, David L., et al. “[Optimizing Preseason Training Loads in Australian Football](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p194.xml).” International Journal of Sports Physiology and Performance, vol. 13, no. 2, Human Kinetics, Feb. 2018, pp. 194–99, doi:[10.1123/ijspp.2016-0695](https://doi.org/10.1123/ijspp.2016-0695).
 
