@@ -5,20 +5,23 @@ List is mainly composed from the methods that are based on evolutionary algorith
 ---
 
 # Contents
-- [Books](#Books)
-- [Review papers](#Review-papers)
-- [Research papers](#Research-papers)
-- [Dissertation or thesis](#Dissertation-or-thesis)
-- [Tutorials](#Tutorial)
-- [Perspectives](#Perspectives)
-- [Datasets](#Datasets)
-  * [Cycling](#Cycling)
-  * [Soccer](#Soccer)
-  * [Track and field](#Track-and-field)
-  * [Triathlon](#Triathlon)
-  * [Wrestling](#Wrestling)
-- [Software](#Software)
-- [Web applications](#Web-applications)
+- [A collection of literature on the use of computational intelligence methods in sports](#a-collection-of-literature-on-the-use-of-computational-intelligence-methods-in-sports)
+- [Contents](#contents)
+  - [Books](#books)
+  - [Review papers](#review-papers)
+  - [Research papers](#research-papers)
+  - [Dissertation or thesis](#dissertation-or-thesis)
+  - [Tutorials](#tutorials)
+  - [Perspectives](#perspectives)
+  - [Datasets](#datasets)
+    - [Cycling](#cycling)
+    - [Soccer](#soccer)
+    - [Track and field](#track-and-field)
+    - [Triathlon](#triathlon)
+    - [Wrestling](#wrestling)
+  - [Software](#software)
+  - [Web applications](#web-applications)
+  - [Contributing](#contributing)
 
 
 ## Books
@@ -52,6 +55,8 @@ Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footbal
 
 
 ## Research papers
+
+Adeyemo, Victor Elijah, et al. “[Identification of Pattern Mining Algorithm for Rugby League Players Positional Groups Separation Based on Movement Patterns](http://arxiv.org/abs/2302.14058)”. ArXiv, Feb. 2023, p. 2023, http://arxiv.org/abs/2302.14058.
 
 Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://www.sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003])(https://doi.org/10.2478/ijcss-2022-0003).
 
@@ -115,6 +120,8 @@ Fister Jr, Iztok, et al. “[Discovering Dependencies among Mined Association Ru
 
 Frevel, Nicolas, et al. “[The Impact of Technology on Sports – A Prospective Study](https://www.sciencedirect.com/science/article/abs/pii/S0040162522003626?via%3Dihub).” Technological Forecasting and Social Change, vol. 182, Sept. 2022, p. 121838. ScienceDirect, doi:[10.1016/j.techfore.2022.121838](https://doi.org/10.1016/j.techfore.2022.121838).
 
+He, Liqin, et al. “[Decision Support System for Effective Action Recognition of Track and Field Sports Using Ant Colony Optimization](https://link.springer.com/article/10.1007/s00500-023-07967-7).” Soft Computing, Mar. 2023, pp. 1–11, doi:[10.1007/s00500-023-07967-7](https://doi.org/10.1007/s00500-023-07967-7).
+
 Kipp, Kristof, et al. “[Use of Machine Learning to Model Volume Load Effects on Changes in Jump Performance](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p285.xml?utm_source=TrendMD&utm_medium=cpc&utm_campaign=International_Journal_of_Sports_Physiology_and_Performance_TrendMD_1).” International Journal of Sports Physiology and Performance, vol. 15, no. 2, Human Kinetics, Feb. 2020, pp. 285–87, doi:[10.1123/IJSPP.2019-0009](https://doi.org/10.1123/IJSPP.2019-0009).
 
 Kumyaito, Nattapon, et al. “[Planning a Sports Training Program Using Adaptive Particle Swarm Optimization with Emphasis on Physiological Constraints](10.1186/s13104-017-3120-9).” BMC Research Notes, vol. 11, no. 1, Dec. 2018, p. 9, doi:[10.1186/s13104-017-3120-9](https://doi.org/10.1186/s13104-017-3120-9).
@@ -159,6 +166,8 @@ Rajšp, Alen, and Iztok Jr Fister. “[Discovering the Influence of Interruption
 Rajšp, Alen, et al. “[Preprocessing of Roads in OpenStreetMap Based Geographic Data on a Property Graph](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/IS/IS3.pdf).” Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, 2921, pp. 193–99.
 
 Rauter, Samo. “[New Approach for Planning the Mountain Bike Training with Virtual Coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf).” Trends in Sport Sciences, vol. 2, no. 25, 2018, pp. 69–74, doi:[10.23829/TSS.2018.25.2-2](https://doi.org/10.23829/TSS.2018.25.2-2).
+
+Rodríguez-Gallego, Laura, et al. “[Assessment of Feedback Devices for Performance Monitoring in Master’s Swimmers](https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2181556).” International Journal of Performance Analysis in Sport, vol. 22, no. 5, Sept. 2022, pp. 701–14, doi:[10.1080/24748668.2023.2181556](https://doi.org/10.23829/TSS.2018.25.2-2).
 
 Sakabe, Hibiki, and Yohei Nakada. “[Computational Method for Determining Optimal Dribbling Routes in Basketball](https://ieeexplore.ieee.org/abstract/document/9999118).” 2022 IEEE Eighth International Conference on Multimedia Big Data (BigMM), 2022, pp. 107–08. IEEE Xplore, doi:[10.1109/BigMM55396.2022.00024](https://doi.org/10.1109/BigMM55396.2022.00024).
 
@@ -243,8 +252,10 @@ Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ 
 * [ast-monitor](https://github.com/firefly-cpp/AST-Monitor): A wearable Raspberry Pi computer for cyclists
 * [ast-tdl](https://github.com/firefly-cpp/ast-tdl): Training Description Language
 * [gpxpy](https://github.com/tkrajina/gpxpy): a simple Python library for parsing and manipulating GPX files.
+* [openant](https://github.com/Tigge/openant): ANT and ANT-FS Python Library
 * [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features): A minimalistic toolbox for extracting features from sport activity files written in Python
 * [tcxreader](https://github.com/alenrajsp/tcxreader): reader / parser for Garmin’s TCX file format.
+* [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx): Python package for converting tcx GPS files to gpx files.
 * [python-tcxparser](https://github.com/vkurup/python-tcxparser): Simple parser for Garmin TCX files
 
 ## Web applications
