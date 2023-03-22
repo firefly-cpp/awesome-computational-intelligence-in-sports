@@ -1,6 +1,6 @@
 # Awesome Collection Of Literature On The Use Of Computational Intelligence Methods In Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Contents
+## Contents
 - [Contents](#contents)
   - [Books](#books)
   - [Review papers](#review-papers)
@@ -27,11 +27,11 @@ List is mainly composed from the methods that are based on evolutionary algorith
 ## Books
 Begg, Rezaul, and Marimuthu Palaniswami. “[Computational Intelligence for Movement Sciences](https://www.igi-global.com/book/computational-intelligence-movement-sciences/178).” Computational Intelligence for Movement Sciences: Neural Networks and Other Emerging Techniques, edited by Rezaul Begg and Marimuthu Palaniswami, IGI Global, 2006, doi:[10.4018/978-1-59140-836-9](https://doi.org/10.4018/978-1-59140-836-9).
 
-Fister, Iztok, et al. [Computational intelligence in sports](https://link.springer.com/book/10.1007%2F978-3-030-03490-0). Edited by Yew Lim, Meng-Hiot Soon Ong, vol. 22, Springer International Publishing, 2019, doi:[10.1007/978-3-030-03490-0](https://doi.org/10.1007/978-3-030-03490-0).
+Fister, Iztok, et al. [Computational intelligence in sports](https://link.springer.com/book/10.1007%2F978-3-030-03490-0).” Edited by Yew Lim, Meng-Hiot Soon Ong, vol. 22, Springer International Publishing, 2019, doi:[10.1007/978-3-030-03490-0](https://doi.org/10.1007/978-3-030-03490-0).
 
 ## Review papers
 
-Beal, Ryan, et al. “[Artificial intelligence for team sports: a survey](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/artificial-intelligence-for-team-sports-a-survey/2E0E32861D031C022603F670B23B55B3).“ *The Knowledge Engineering Review*, vol. 34, Cambridge University Press, 2019, doi: [10.1017/S0269888919000225](https://doi.org/10.1017/S0269888919000225).
+Beal, Ryan, et al. “[Artificial intelligence for team sports: a survey](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/artificial-intelligence-for-team-sports-a-survey/2E0E32861D031C022603F670B23B55B3).” *The Knowledge Engineering Review*, vol. 34, Cambridge University Press, 2019, doi: [10.1017/S0269888919000225](https://doi.org/10.1017/S0269888919000225).
 
 Bonidia, Robson P., et al. “[Data Mining in Sports: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/8291478/).” IEEE Latin America Transactions, vol. 16, no. 1, IEEE Computer Society, Jan. 2018, pp. 232–39, doi:[10.1109/TLA.2018.8291478](https://doi.org/10.1109/TLA.2018.8291478).
 
