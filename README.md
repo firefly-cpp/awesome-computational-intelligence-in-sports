@@ -139,7 +139,6 @@ Liu, Yu, et al. “[Design and Implementation of Concurrent Optimization Schemes
 Lopez-Gomez, Julio Alberto, et al. “[A Feature-Weighting Approach Using Metaheuristic Algorithms to Evaluate the Performance of Handball Goalkeepers](https://ieeexplore.ieee.org/abstract/document/9726167/).” IEEE Access, 2022, pp. 1–1, doi:[10.1109/ACCESS.2022.3156120](https://doi.org/10.1109/ACCESS.2022.3156120).
 
 Lukac, Luka, et al. “[A Minimalistic Toolbox for Extracting Features from Sport Activity Files](https://ieeexplore.ieee.org/abstract/document/9512927).” 2021 IEEE 25th International Conference on Intelligent Engineering Systems (INES), IEEE, 2021, pp. 000121–26, doi:[10.1109/INES52918.2021.9512927](https://doi.org/10.1109/INES52918.2021.9512927).
-*[GitHub repository](#software)*
 
 Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](https://www.mdpi.com/2076-3417/12/24/12741)”. Applied Sciences, vol. 12, no. 24, Dec. 2022, p. 12741, doi:[10.3390/app122412741](https://doi.org/10.3390/app122412741).
 
