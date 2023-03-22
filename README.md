@@ -166,7 +166,7 @@ Rajšp, Alen, et al. “[Preprocessing of Roads in OpenStreetMap Based Geographi
 
 Rauter, Samo. “[New Approach for Planning the Mountain Bike Training with Virtual Coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf).” Trends in Sport Sciences, vol. 2, no. 25, 2018, pp. 69–74, doi:[10.23829/TSS.2018.25.2-2](https://doi.org/10.23829/TSS.2018.25.2-2).
 
-Rodríguez-Gallego, Laura, et al. “[Assessment of Feedback Devices for Performance Monitoring in Master’s Swimmers](https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2181556).” International Journal of Performance Analysis in Sport, vol. 22, no. 5, Sept. 2022, pp. 701–14, doi:[10.1080/24748668.2023.2181556](https://doi.org/10.23829/TSS.2018.25.2-2).
+Rodríguez-Gallego, Laura, et al. “[Assessment of Feedback Devices for Performance Monitoring in Master's Swimmers](https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2181556).” International Journal of Performance Analysis in Sport, vol. 22, no. 5, Sept. 2022, pp. 701–14, doi:[10.1080/24748668.2023.2181556](https://doi.org/10.1080/24748668.2023.2181556).
 
 Sakabe, Hibiki, and Yohei Nakada. “[Computational Method for Determining Optimal Dribbling Routes in Basketball](https://ieeexplore.ieee.org/abstract/document/9999118).” 2022 IEEE Eighth International Conference on Multimedia Big Data (BigMM), 2022, pp. 107–08. IEEE Xplore, doi:[10.1109/BigMM55396.2022.00024](https://doi.org/10.1109/BigMM55396.2022.00024).
 
