@@ -6,3 +6,4 @@ Please, fork this repository and create a PR to the main branch of this reposito
 
 Thanks to all contributors, you're awesome and this list wouldn't be possible without you!
 
+Citations to papers related to Computational intelligence in sports should follow the **MLA 8th edition citation format**.
