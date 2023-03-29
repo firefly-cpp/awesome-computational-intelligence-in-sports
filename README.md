@@ -1,7 +1,7 @@
 # Awesome Computational Intelligence Methods In Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-<img src="/logo/Logo_256.png" alt="Awesome Computational Intelligence Methods In Sports logo" style="height: 126px; width:126px;"/>
+<img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence Methods In Sports logo" style="height: 126px; width:126px;"/>
 </p>
 
 ---
