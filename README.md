@@ -4,6 +4,12 @@
 <img src="/logo/Logo_256.png" alt="Awesome Computational Intelligence Methods In Sports logo" style="height: 126px; width:126px;"/>
 </p>
 
+---
+
+List is mainly composed from the methods that are based on evolutionary algorithms, artificial neural networks, fuzzy systems and swarm intelligence algorithms. Cited with Mendeley in the MLA 8th edition format. The list includes books, scientific literature, datasets and software from the field of Computational Intelligence in sports.
+
+---
+
 
 ## Contents
 - [Books](#books)
@@ -21,11 +27,6 @@
 - [Software](#software)
 - [Web applications](#web-applications)
 
----
-
-List is mainly composed from the methods that are based on evolutionary algorithms, artificial neural networks, fuzzy systems and swarm intelligence algorithms. Cited with Mendeley in the MLA 8th edition format. The list includes books, scientific literature, datasets and software from the field of Computational Intelligence in sports.
-
----
 
 ## Books
 Begg, Rezaul, and Marimuthu Palaniswami. “[Computational Intelligence for Movement Sciences](https://www.igi-global.com/book/computational-intelligence-movement-sciences/178).” Computational Intelligence for Movement Sciences: Neural Networks and Other Emerging Techniques, edited by Rezaul Begg and Marimuthu Palaniswami, IGI Global, 2006, doi:[10.4018/978-1-59140-836-9](https://doi.org/10.4018/978-1-59140-836-9).
