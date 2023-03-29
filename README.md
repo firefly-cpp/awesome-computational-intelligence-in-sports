@@ -1,4 +1,10 @@
-# Awesome Collection Of Literature On The Use Of Computational Intelligence Methods In Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Computational Intelligence Methods In Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<div align=“center”>
+<img src="/logo/Logo_256.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+</div>
+
+
 
 ## Contents
 - [Books](#books)
@@ -18,7 +24,7 @@
 
 ---
 
-List is mainly composed from the methods that are based on evolutionary algorithms, artificial neural networks, fuzzy systems and swarm intelligence algorithms. Cited with Mendeley in the MLA 8th edition format.
+List is mainly composed from the methods that are based on evolutionary algorithms, artificial neural networks, fuzzy systems and swarm intelligence algorithms. Cited with Mendeley in the MLA 8th edition format. The list includes books, scientific literature, datasets and software from the field of Computational Intelligence in sports.
 
 ---
 
