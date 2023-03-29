@@ -5,8 +5,9 @@
 </p>
 
 ---
+We are curating **awesome** research and approaches to **CI in Sports**!
 
-List is mainly composed from the methods that are based on evolutionary algorithms, artificial neural networks, fuzzy systems and swarm intelligence algorithms. Cited with Mendeley in the MLA 8th edition format. The list includes books, scientific literature, datasets and software from the field of Computational Intelligence in sports.
+This repository serves as a list of knowledge for researchers working in Computational Intelligence in Sports. The list mainly comprises methods based on evolutionary algorithms, artificial neural networks, fuzzy systems, and swarm intelligence algorithms. The research citations were done with Mendeley in the MLA 8th edition format. The list includes books, scientific literature, datasets, and software from Computational Intelligence in Sports.
 
 ---
 
