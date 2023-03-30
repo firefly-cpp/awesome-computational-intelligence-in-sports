@@ -111,8 +111,6 @@ Fister Jr, Iztok, et al. “[New Perspectives in the Development of the Artifici
 
 Fister Jr, Iztok , et al. “[SportyDataGen: An Online Generator of Endurance Sports Activity Collections](http://www.iztok-jr-fister.eu/static/publications/225.pdf).” Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, 2018, pp. 171–78.
 
-Fister Jr, Iztok, et al. "[Topology-based generation of sport training sessions](https://link.springer.com/article/10.1007%2Fs12652-020-02048-1)." Journal of Ambient Intelligence and Humanized Computing 12 (2021): 667-678.
-
 Fister Jr, Iztok, et al. “[Topology-Based Generation of Sport Training Sessions](https://link.springer.com/article/10.1007/s12652-020-02048-1).” Journal of Ambient Intelligence and Humanized Computing, vol. 12, no. 1, Springer Science and Business Media Deutschland GmbH, Jan. 2021, pp. 667–78, doi:[10.1007/s12652-020-02048-1](https://doi.org/10.1007/s12652-020-02048-1).
 
 Fister Jr, Iztok, et al. “[On Deploying the Artificial Sport Trainer into Practice](10.1109/ISCMI53840.2021.9654817).” 2021 8th International Conference on Soft Computing and Machine Intelligence, ISCMI 2021, Institute of Electrical and Electronics Engineers Inc., Sept. 2021, pp. 21–26, doi:[ISCMI53840.2021.9654817](https://doi.org/ISCMI53840.2021.9654817).
