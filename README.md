@@ -27,7 +27,7 @@ This repository serves as a list of knowledge for researchers working in Computa
   - 🤼‍♀️ [Wrestling](#wrestling-%EF%B8%8F)
 - 💻[Software](#software-)
 - 🌐[Web applications](#web-applications-)
-
+ 
 
 ## Books 📚
 - Begg, Rezaul, and Marimuthu Palaniswami. “[Computational Intelligence for Movement Sciences](https://www.igi-global.com/book/computational-intelligence-movement-sciences/178).” Computational Intelligence for Movement Sciences: Neural Networks and Other Emerging Techniques, edited by Rezaul Begg and Marimuthu Palaniswami, IGI Global, 2006, doi:[10.4018/978-1-59140-836-9](https://doi.org/10.4018/978-1-59140-836-9).
