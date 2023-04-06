@@ -23,7 +23,7 @@ This repository serves as a list of knowledge for researchers working in Computa
   - 🚴‍♀️ [Cycling](#cycling-%EF%B8%8F)
   - ⚽️ [Soccer](#soccer-%EF%B8%8F)
   - 🏃‍♂️ [Track and field](#track-and-field-%EF%B8%8F)
-  - 🥉 [Triathlon](#triathlon-triathlon-3%EF%B8%8F⃣)
+  - 🥉 [Triathlon](#triathlon-triathlon-3%EF%B8%8F⃣) 
   - 🤼‍♀️ [Wrestling](#wrestling-%EF%B8%8F)
 - 💻[Software](#software-)
 - 🌐[Web applications](#web-applications-)
@@ -249,7 +249,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Aguilera-Castells, Joan, et al. "[Correlational data concerning body centre of mass acceleration, muscle activity, and forces exerted during a suspended lunge under different stability conditions in high-standard track and field athletes](https://www.sciencedirect.com/science/article/pii/S2352340919312673)." Data in brief 28 (2020): 104912.
 
-### Triathlon 3️⃣
+### Triathlon 🥉
 
 - Iztok Fister Jr., Dušan Fister. [A collection of IRONMAN, IRONMAN 70.3 and Ultra-triathlon race results](http://iztok-jr-fister.eu/static/publications/158.pdf), version 0.1, Technical Report 0110, 2016
 
