@@ -13,28 +13,28 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 
 ## Contents
-- :books:	[Books](#:books:books)
-- :page_with_curl: [Review papers](#review-papers)
-- :microscope: [Research papers](#research-papers)
-- :ledger: [Dissertation or thesis](#dissertation-or-thesis)
-- 📖 [Tutorials](#tutorials)
-- 📰 [Perspectives](#perspectives)
-- 📊 [Datasets](#datasets)
-  -🚴‍♀️ [Cycling](#cycling)
-  -⚽️ [Soccer](#soccer)
-  -🏃‍♂️[Track and field](#track-and-field)
-  -3️⃣[Triathlon](#triathlon)
-  -🤼‍♀️[Wrestling](#wrestling)
-- 💻[Software](#software)
-- 🌐[Web applications](#web-applications)
+- :books:	[Books](#books-)
+- :page_with_curl: [Review papers](#review-papers-)
+- :microscope: [Research papers](#research-papers-)
+- :ledger: [Dissertation or thesis](#dissertation-or-thesis-)
+- 📖 [Tutorials](#tutorials-)
+- 📰 [Perspectives](#perspectives-)
+- 📊 [Datasets](#datasets-)
+  - 🚴‍♀️ [Cycling](#cycling-%EF%B8%8F)
+  - ⚽️ [Soccer](#soccer-%EF%B8%8F)
+  - 🏃‍♂️ [Track and field](#track-and-field-%EF%B8%8F)
+  - 🥉 [Triathlon](#triathlon-) 
+  - 🤼‍♀️ [Wrestling](#wrestling-%EF%B8%8F)
+- 💻[Software](#software-)
+- 🌐[Web applications](#web-applications-)
+ 
 
-
-## :books: Books
+## Books 📚
 - Begg, Rezaul, and Marimuthu Palaniswami. “[Computational Intelligence for Movement Sciences](https://www.igi-global.com/book/computational-intelligence-movement-sciences/178).” Computational Intelligence for Movement Sciences: Neural Networks and Other Emerging Techniques, edited by Rezaul Begg and Marimuthu Palaniswami, IGI Global, 2006, doi:[10.4018/978-1-59140-836-9](https://doi.org/10.4018/978-1-59140-836-9).
 
 - Fister, Iztok, et al. “[Computational intelligence in sports](https://link.springer.com/book/10.1007%2F978-3-030-03490-0).” Edited by Yew Lim, Meng-Hiot Soon Ong, vol. 22, Springer International Publishing, 2019, doi:[10.1007/978-3-030-03490-0](https://doi.org/10.1007/978-3-030-03490-0).
 
-## Review papers
+## Review papers 📃
 
 - Beal, Ryan, et al. “[Artificial intelligence for team sports: a survey](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/artificial-intelligence-for-team-sports-a-survey/2E0E32861D031C022603F670B23B55B3).” *The Knowledge Engineering Review*, vol. 34, Cambridge University Press, 2019, doi: [10.1017/S0269888919000225](https://doi.org/10.1017/S0269888919000225).
 
@@ -59,7 +59,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 - Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
 
 
-## Research papers
+## Research papers 🔬
 
 - Adeyemo, Victor Elijah, et al. “[Identification of Pattern Mining Algorithm for Rugby League Players Positional Groups Separation Based on Movement Patterns](http://arxiv.org/abs/2302.14058)”. ArXiv, Feb. 2023, p. 2023, http://arxiv.org/abs/2302.14058.
 
@@ -207,25 +207,25 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w)”. Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
 
-## Dissertation or thesis
+## Dissertation or thesis 📒
 
 - Murillo Burford, Esteban. [Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/). Wake Forest University Graduate School of Arts and Sciences, 2020.
 
 - Eriksson, Rikard, and Johan Nicander. [Automated Generation of Training Programs for Swimmers Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://odr.chalmers.se/handle/20.500.12380/302927). Chalmers University of Technology, 2021, doi:[20.500.12380/302927](https://doi.org/20.500.12380/302927).
 
-## Tutorials
+## Tutorials 📖
 
 - Bock, Marius, et al. [Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663). Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://doi.org/10.48550/arxiv.2110.06663).
 
-## Perspectives
+## Perspectives 📰
 
 - Chmait, Nader, and Hans Westerbeek. “[Artificial Intelligence and Machine Learning in Sport Research: An Introduction for Non-Data Scientists](https://www.frontiersin.org/articles/10.3389/fspor.2021.682287).” Frontiers in Sports and Active Living, vol. 3, Frontiers Media S.A., Dec. 2021, p. 363, doi:[10.3389/fspor.2021.682287](https://doi.org/10.3389/fspor.2021.682287).
 
-## Datasets
+## Datasets 📊
 
 - Rico-Garcia, Mateo, et al. “[Vertical Jump Data from Inertial and Optical Motion Tracking Systems](https://www.mdpi.com/2306-5729/7/8/116).” Data, vol. 7, no. 8, Aug. 2022, p. 116, doi:[10.3390/data7080116](https://doi.org/10.3390/data7080116).
 
-### Cycling
+### Cycling <span>🚴‍♀️</span>
 
 - Fister Jr., et al. [A collection of sport activity datasets for data analysis and data mining 2017a](http://iztok-jr-fister.eu/static/publications/Sport4.zip). Technical report 2017a, University of Maribor, 2017
 
@@ -237,7 +237,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Samo Rauter, Iztok Fister Jr., Iztok Fister. [A collection of sport activity files for data analysis and data mining](http://iztok-jr-fister.eu/static/css/datasets/Sport.zip). Ver 12 05, University of Maribor, 2015
 
-### Soccer
+### Soccer ⚽️
 
 - Rouissi, Mehdi, et al. "[Data concerning isometric lower limb strength of dominant versus not-dominant leg in young elite soccer players](https://www.sciencedirect.com/science/article/pii/S2352340918300258)." (2018).
 
@@ -245,19 +245,19 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Slimani, Maamer, Armin Paravlić, and Nicola Luigi Bragazzi. "[Data concerning the effect of plyometric training on jump performance in soccer players: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S2352340917304857)." Data in brief 15 (2017): 324-334.
 
-### Track and field
+### Track and field 🏃‍♂️
 
 - Aguilera-Castells, Joan, et al. "[Correlational data concerning body centre of mass acceleration, muscle activity, and forces exerted during a suspended lunge under different stability conditions in high-standard track and field athletes](https://www.sciencedirect.com/science/article/pii/S2352340919312673)." Data in brief 28 (2020): 104912.
 
-### Triathlon
+### Triathlon 🥉
 
 - Iztok Fister Jr., Dušan Fister. [A collection of IRONMAN, IRONMAN 70.3 and Ultra-triathlon race results](http://iztok-jr-fister.eu/static/publications/158.pdf), version 0.1, Technical Report 0110, 2016
 
-### Wrestling
+### Wrestling 🤼‍♀️
 
 - Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747), 1988–2018." Data in brief 19 (2018): 1458-1465.
 
-## Software
+## Software 💻
 
 - [ast-monitor](https://github.com/firefly-cpp/AST-Monitor) - A wearable Raspberry Pi computer for cyclists.
 - [ast-tdl](https://github.com/firefly-cpp/ast-tdl) - Training Description Language.
@@ -268,5 +268,5 @@ This repository serves as a list of knowledge for researchers working in Computa
 - [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
 - [python-tcxparser](https://github.com/vkurup/python-tcxparser) - Simple parser for Garmin TCX files.
 
-## Web applications
+## Web applications 🌐
 
