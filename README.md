@@ -23,7 +23,7 @@ This repository serves as a list of knowledge for researchers working in Computa
   - 🚴‍♀️ [Cycling](#cycling-%EF%B8%8F)
   - ⚽️ [Soccer](#soccer-%EF%B8%8F)
   - 🏃‍♂️ [Track and field](#track-and-field-%EF%B8%8F)
-  - 🥉 [Triathlon](#triathlon-triathlon-3%EF%B8%8F⃣) 
+  - 🥉 [Triathlon](#triathlon-) 
   - 🤼‍♀️ [Wrestling](#wrestling-%EF%B8%8F)
 - 💻[Software](#software-)
 - 🌐[Web applications](#web-applications-)
