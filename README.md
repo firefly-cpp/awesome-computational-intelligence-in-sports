@@ -107,7 +107,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Fister, Iztok, et al. “[Synthetic Data Augmentation of Cycling Sport Training Datasets](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_7).” Lecture Notes in Networks and Systems, vol. 371, Springer Science and Business Media Deutschland GmbH, 2022, pp. 65–74, doi:[10.1007/978-3-030-93247-3_7/COVER](https://doi.org/10.1007/978-3-030-93247-3_7/COVER).
 
-- Fister Jr., Iztok. “[The Relevance of Nature-Inspired Metaheuristic Algorithms in Smart Sport Training](https://link.springer.com/chapter/10.1007/978-3-030-80216-5_1).” International {Conference} on {Emerging} {Applications} and {Technologies} for {Industry} 4.0 ({EATI}’2020), edited by Jemal H Abawajy et al., Springer International Publishing, 2021, pp. 1–8, doi:[10.1007/978-3-030-80216-5_1](https://doi.org/10.1007/978-3-030-80216-5_1).
+- Fister Jr., Iztok. “[The Relevance of Nature-Inspired Metaheuristic Algorithms in Smart Sport Training](https://link.springer.com/chapter/10.1007/978-3-030-80216-5_1).” International Conference on Emerging Applications and Technologies for Industry 4.0 (EATI’2020), edited by Jemal H Abawajy et al., Springer International Publishing, 2021, pp. 1–8, doi:[10.1007/978-3-030-80216-5_1](https://doi.org/10.1007/978-3-030-80216-5_1).
 
 - Fister, Iztok Jr, et al. “[Adaptation of Sport Training Plans by Swarm Intelligence](https://link.springer.com/chapter/10.1007/978-3-319-97888-8_5).” Recent Advances in Soft Computing, edited by Radek Matoušek, Springer International Publishing, 2019, pp. 56–67, doi:[10.1007/978-3-319-97888-8_5](https://doi.org/10.1007/978-3-319-97888-8_5).
 
