@@ -46,7 +46,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Farrokhi, Alireza, et al. “[Application of Internet of Things and Artificial Intelligence for Smart Fitness: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621000360).” Computer Networks, vol. 189, Elsevier, Apr. 2021, p. 107859, doi:[10.1016/j.comnet.2021.107859](https://doi.org/10.1016/j.comnet.2021.107859).
 
-- Fister, Iztok, et al. “[Computational Intelligence in Sports: Challenges and Opportunities within a New Research Domain](https://www.sciencedirect.com/science/article/abs/pii/S0096300315004300).” Applied Mathematics and Computation, vol. 262, Elsevier, July 2015, pp. 178–86, doi:[10.1016/j.amc.2015.04.004](https://doi.org/10.1016/j.amc.2015.04.004).
+- Fister Jr, Iztok, et al. “[Computational Intelligence in Sports: Challenges and Opportunities within a New Research Domain](https://www.sciencedirect.com/science/article/abs/pii/S0096300315004300).” Applied Mathematics and Computation, vol. 262, Elsevier, July 2015, pp. 178–86, doi:[10.1016/j.amc.2015.04.004](https://doi.org/10.1016/j.amc.2015.04.004).
 
 - Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machine Learning: A Literature Review](https://ieeexplore.ieee.org/abstract/document/9857881).” IEEE Access, vol. 10, 2022, pp. 86874–903, doi:[10.1109/ACCESS.2022.3198935](https://doi.org/10.1109/ACCESS.2022.3198935).
 
