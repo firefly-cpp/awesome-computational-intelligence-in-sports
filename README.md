@@ -13,10 +13,10 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 
 ## Contents
-- :books:	[Books](#books-)
-- :page_with_curl: [Review papers](#review-papers-)
-- :microscope: [Research papers](#research-papers-)
-- :ledger: [Dissertation or thesis](#dissertation-or-thesis-)
+- 📚 [Books](#books-)
+- 📃 [Review papers](#review-papers-)
+- 🔬 [Research papers](#research-papers-)
+- 📒 [Dissertation or thesis](#dissertation-or-thesis-)
 - 📖 [Tutorials](#tutorials-)
 - 📰 [Perspectives](#perspectives-)
 - 📊 [Datasets](#datasets-)
