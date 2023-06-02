@@ -14,7 +14,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ## Contents
 - [Books 📚](#books-)
-- [Research papers 📃](#research-papers-)
+- [Review papers 📃](#review-papers-)
+- [Research papers 🔬](#research-papers-)
 - [Dissertation or thesis 📒](#dissertation-or-thesis-)
 - [Tutorials 📖](#tutorials-)
 - [Perspectives 📰](#perspectives-)
@@ -33,7 +34,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Fister, Iztok, et al. “[Computational intelligence in sports](https://link.springer.com/book/10.1007%2F978-3-030-03490-0).” Edited by Yew Lim, Meng-Hiot Soon Ong, vol. 22, Springer International Publishing, 2019, doi:[10.1007/978-3-030-03490-0](https://doi.org/10.1007/978-3-030-03490-0).
 
-## Research papers 📃
+## Review papers 📃
 
 - Beal, Ryan, et al. “[Artificial intelligence for team sports: a survey](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/artificial-intelligence-for-team-sports-a-survey/2E0E32861D031C022603F670B23B55B3).” *The Knowledge Engineering Review*, vol. 34, Cambridge University Press, 2019, doi: [10.1017/S0269888919000225](https://doi.org/10.1017/S0269888919000225).
 
