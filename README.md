@@ -25,7 +25,7 @@ This repository serves as a list of knowledge for researchers working in Computa
   - [Track and field 🏃‍♂️](#track-and-field-%EF%B8%8F)
   - [Triathlon 🥉](#triathlon-) 
   - [Wrestling 🤼‍♀️](#wrestling-%EF%B8%8F)
-- [Software 💻](#software-)
+- [Software 💻](#software)
 - [Web applications 🌐](#web-applications-)
  
 
@@ -257,7 +257,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747), 1988–2018." Data in brief 19 (2018): 1458-1465.
 
-## Software 💻
+## Software 💻 (#software)
 
 - [ast-monitor](https://github.com/firefly-cpp/AST-Monitor) - A wearable Raspberry Pi computer for cyclists.
 - [ast-tdl](https://github.com/firefly-cpp/ast-tdl) - Training Description Language.
