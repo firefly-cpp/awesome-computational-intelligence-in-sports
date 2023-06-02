@@ -14,18 +14,18 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ## Contents
 - [Books 📚](#books-)
-- 🔬 [Research papers](#research-papers-)
-- 📒 [Dissertation or thesis](#dissertation-or-thesis-)
-- 📖 [Tutorials](#tutorials-)
-- 📰 [Perspectives](#perspectives-)
-- 📊 [Datasets](#datasets-)
-  - 🚴‍♀️ [Cycling](#cycling-%EF%B8%8F)
-  - ⚽️ [Soccer](#soccer-%EF%B8%8F)
-  - 🏃‍♂️ [Track and field](#track-and-field-%EF%B8%8F)
-  - 🥉 [Triathlon](#triathlon-) 
-  - 🤼‍♀️ [Wrestling](#wrestling-%EF%B8%8F)
-- 💻[Software](#software-)
-- 🌐[Web applications](#web-applications-)
+- [Research papers 🔬](#research-papers-)
+- [Dissertation or thesis 📒](#dissertation-or-thesis-)
+- [Tutorials 📖](#tutorials-)
+- [Perspectives 📰](#perspectives-)
+- [Datasets 📊](#datasets-)
+  - [Cycling 🚴‍♀️](#cycling-%EF%B8%8F)
+  - [Soccer ⚽️](#soccer-%EF%B8%8F)
+  - [Track and field 🏃‍♂️](#track-and-field-%EF%B8%8F)
+  - [Triathlon 🥉](#triathlon-) 
+  - [Wrestling 🤼‍♀️](#wrestling-%EF%B8%8F)
+- [Software💻](#software-)
+- [Web applications 🌐](#web-applications-)
  
 
 ## Books 📚
