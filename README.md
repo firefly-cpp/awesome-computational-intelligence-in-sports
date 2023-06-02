@@ -14,7 +14,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ## Contents
 - [Books 📚](#books-)
-- [Research papers 🔬](#research-papers-)
+- [Research papers 📃](#research-papers-)
 - [Dissertation or thesis 📒](#dissertation-or-thesis-)
 - [Tutorials 📖](#tutorials-)
 - [Perspectives 📰](#perspectives-)
