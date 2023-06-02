@@ -225,7 +225,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Rico-Garcia, Mateo, et al. “[Vertical Jump Data from Inertial and Optical Motion Tracking Systems](https://www.mdpi.com/2306-5729/7/8/116).” Data, vol. 7, no. 8, Aug. 2022, p. 116, doi:[10.3390/data7080116](https://doi.org/10.3390/data7080116).
 
-### Cycling <span>🚴‍♀️</span>
+### Cycling 🚴‍♀️
 
 - Fister Jr., et al. [A collection of sport activity datasets for data analysis and data mining 2017a](http://iztok-jr-fister.eu/static/publications/Sport4.zip). Technical report 2017a, University of Maribor, 2017
 
