@@ -20,7 +20,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 - [Tutorials 📖](#tutorials-)
 - [Perspectives 📰](#perspectives-)
 - [Datasets 📊](#datasets-)
-  - [Cycling 🚲](#cycling-%EF%B8%8F)
+  - [Cycling 🚲](#cycling-)
   - [Soccer ⚽️](#soccer-%EF%B8%8F)
   - [Track and field 🏃‍♂️](#track-and-field-%EF%B8%8F)
   - [Triathlon 🥉](#triathlon-) 
