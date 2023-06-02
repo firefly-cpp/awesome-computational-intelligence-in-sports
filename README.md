@@ -25,7 +25,7 @@ This repository serves as a list of knowledge for researchers working in Computa
   - [Track and field 🏃‍♂️](#track-and-field-%EF%B8%8F)
   - [Triathlon 🥉](#triathlon-) 
   - [Wrestling 🤼‍♀️](#wrestling-%EF%B8%8F)
-- [Software💻](#software-)
+- [Software 💻](#software-)
 - [Web applications 🌐](#web-applications-)
  
 
