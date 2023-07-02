@@ -22,10 +22,10 @@ This repository serves as a list of knowledge for researchers working in Computa
 - [Datasets 📊](#datasets-)
   - [Basketball 🏀](#basketball-)
   - [Cycling 🚲](#cycling-)
-  - [Soccer ⚽](#soccer-)
+  - [Soccer ⚽](#soccer-%EF%B8%8F)
   - [Track and field 🏃‍](#track-and-field-)
   - [Triathlon 🥉](#triathlon-) 
-  - [Wrestling 🤼‍♀️](#wrestling-)
+  - [Wrestling 🤼‍♀️](#wrestling-%EF%B8%8F)
 - [Software 💻](#software-)
 - [Web applications 🌐](#web-applications-)
  
