@@ -20,6 +20,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 - [Tutorials 📖](#tutorials-)
 - [Perspectives 📰](#perspectives-)
 - [Datasets 📊](#datasets-)
+  - [Basketball 🏀](#basketball-)
   - [Cycling 🚲](#cycling-)
   - [Soccer ⚽️](#soccer-%EF%B8%8F)
   - [Track and field 🏃‍♂️](#track-and-field-%EF%B8%8F)
@@ -229,7 +230,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Rico-Garcia, Mateo, et al. “[Vertical Jump Data from Inertial and Optical Motion Tracking Systems](https://www.mdpi.com/2306-5729/7/8/116).” Data, vol. 7, no. 8, Aug. 2022, p. 116, doi:[10.3390/data7080116](https://doi.org/10.3390/data7080116).
 
-### Basketball 
+### Basketball 🏀
 
 - Hoelzemann, Alexander, et al. “[Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition Using Wrist-Worn Inertial Sensors](https://arxiv.org/pdf/2305.13124.pdf).”  ArXiv, May 2023, doi:[10.48550/arXiv.2305.13124](https://doi.org/10.48550/arXiv.2305.13124).
 
