@@ -13,20 +13,21 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 
 ## Contents
-- :books:	[Books](#books-)
-- :page_with_curl: [Review papers](#review-papers-)
-- :microscope: [Research papers](#research-papers-)
-- :ledger: [Dissertation or thesis](#dissertation-or-thesis-)
-- 📖 [Tutorials](#tutorials-)
-- 📰 [Perspectives](#perspectives-)
-- 📊 [Datasets](#datasets-)
-  - 🚴‍♀️ [Cycling](#cycling-%EF%B8%8F)
-  - ⚽️ [Soccer](#soccer-%EF%B8%8F)
-  - 🏃‍♂️ [Track and field](#track-and-field-%EF%B8%8F)
-  - 🥉 [Triathlon](#triathlon-) 
-  - 🤼‍♀️ [Wrestling](#wrestling-%EF%B8%8F)
-- 💻[Software](#software-)
-- 🌐[Web applications](#web-applications-)
+- [Books 📚](#books-)
+- [Review papers 📃](#review-papers-)
+- [Research papers 🔬](#research-papers-)
+- [Dissertation or thesis 📒](#dissertation-or-thesis-)
+- [Tutorials 📖](#tutorials-)
+- [Perspectives 📰](#perspectives-)
+- [Datasets 📊](#datasets-)
+  - [Basketball 🏀](#basketball-)
+  - [Cycling 🚲](#cycling-)
+  - [Soccer ⚽](#soccer-%EF%B8%8F)
+  - [Track and field 🏃‍](#track-and-field-)
+  - [Triathlon 🥉](#triathlon-) 
+  - [Wrestling 🤼‍♀️](#wrestling-%EF%B8%8F)
+- [Software 💻](#software-)
+- [Web applications 🌐](#web-applications-)
  
 
 ## Books 📚
@@ -92,6 +93,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 - Farrokhi, Alireza, et al. “[A Decision Tree-Based Smart Fitness Framework in IoT](https://link.springer.com/article/10.1007/s42979-021-00940-x).” SN Computer Science, vol. 3, no. 1, Springer, Jan. 2022, p. 2, doi:[10.1007/s42979-021-00940-x](https://doi.org/10.1007/s42979-021-00940-x).
 
 - Feely, Ciara, et al. “[A Case-Based Reasoning Approach to Predicting and Explaining Running Related Injuries]((https://link.springer.com/chapter/10.1007/978-3-030-86957-1_6)).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12877 LNAI, Springer, Cham, 2021, pp. 79–93, doi:[10.1007/978-3-030-86957-1_6](https://doi.org/10.1007/978-3-030-86957-1_6).
+
+- Feely, Ciara, et al. “[Modelling the Training Practices of Recreational Marathon Runners to Make Personalised Training Recommendations](https://dl.acm.org/doi/pdf/10.1145/3565472.3592952)”. Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization, ACM, 2023, pp. 183–93, doi:[10.1145/3565472.3592952](https://doi.org/10.1145/3565472.3592952).
 
 - Ferencsik, Dorina K., and Erika B. Varga. “[Cycling Activity Dataset Creation and Application for Feedback Giving](https://sciendo.com/article/10.2478/amset-2021-0015).” Acta Marisiensis. Seria Technologica, vol. 18, no. 2, Walter de Gruyter GmbH, Dec. 2021, pp. 29–35, doi:[10.2478/AMSET-2021-0015](https://doi.org/10.2478/amset-2021-0015).
 
@@ -173,7 +176,9 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Rajšp, Alen, and Iztok Jr Fister. “[Discovering the Influence of Interruptions in Cycling Training: A Data Science Study](https://link.springer.com/chapter/10.1007/978-3-030-77970-2_32).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12745 LNCS, Springer, Cham, 2021, pp. 420–432, doi:[10.1007/978-3-030-77970-2_32](https://doi.org/10.1007/978-3-030-77970-2_32).
 
-- Rajšp, Alen, et al. “[Preprocessing of Roads in OpenStreetMap Based Geographic Data on a Property Graph](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/IS/IS3.pdf).” Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, 2921, pp. 193–99.
+- Rajšp, Alen, et al. “[Preprocessing of Roads in OpenStreetMap Based Geographic Data on a Property Graph](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/IS/IS3.pdf).” Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, 2921, pp. 193–199.
+
+- Rajšp, Alen, Marjan Heričko, and Iztok Fister Jr. “[The use of Gamification in Smart Sport Training](https://www.proquest.com/docview/2531377525?pq-origsite%253Dgscholar%2526fromopenview%253Dtrue).”Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, pp. 113-120
 
 - Rauter, Samo. “[New Approach for Planning the Mountain Bike Training with Virtual Coach](http://www.wbc.poznan.pl/Content/443839/PDF/4_Trends_2018_no2_69.pdf).” Trends in Sport Sciences, vol. 2, no. 25, 2018, pp. 69–74, doi:[10.23829/TSS.2018.25.2-2](https://doi.org/10.23829/TSS.2018.25.2-2).
 
@@ -209,13 +214,13 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ## Dissertation or thesis 📒
 
-- Murillo Burford, Esteban. [Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/). Wake Forest University Graduate School of Arts and Sciences, 2020.
+- Murillo Burford, Esteban. “[Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/)”. Wake Forest University Graduate School of Arts and Sciences, 2020.
 
-- Eriksson, Rikard, and Johan Nicander. [Automated Generation of Training Programs for Swimmers Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://odr.chalmers.se/handle/20.500.12380/302927). Chalmers University of Technology, 2021, doi:[20.500.12380/302927](https://doi.org/20.500.12380/302927).
+- Eriksson, Rikard, and Johan Nicander. “[Automated Generation of Training Programs for Swimmers Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://odr.chalmers.se/handle/20.500.12380/302927)”. Chalmers University of Technology, 2021, doi:[20.500.12380/302927](https://doi.org/20.500.12380/302927).
 
 ## Tutorials 📖
 
-- Bock, Marius, et al. [Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663). Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://doi.org/10.48550/arxiv.2110.06663).
+- Bock, Marius, et al. “[Tutorial on Deep Learning for Human Activity Recognition](https://arxiv.org/abs/2110.06663).” Oct. 2021, doi:[10.48550/arxiv.2110.06663](https://doi.org/10.48550/arxiv.2110.06663).
 
 ## Perspectives 📰
 
@@ -225,37 +230,43 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Rico-Garcia, Mateo, et al. “[Vertical Jump Data from Inertial and Optical Motion Tracking Systems](https://www.mdpi.com/2306-5729/7/8/116).” Data, vol. 7, no. 8, Aug. 2022, p. 116, doi:[10.3390/data7080116](https://doi.org/10.3390/data7080116).
 
-### Cycling <span>🚴‍♀️</span>
+### Basketball 🏀
 
-- Fister Jr., et al. [A collection of sport activity datasets for data analysis and data mining 2017a](http://iztok-jr-fister.eu/static/publications/Sport4.zip). Technical report 2017a, University of Maribor, 2017
+- Hoelzemann, Alexander, et al. “[Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition Using Wrist-Worn Inertial Sensors](https://arxiv.org/pdf/2305.13124.pdf).”  ArXiv, May 2023, doi:[10.48550/arXiv.2305.13124](https://doi.org/10.48550/arXiv.2305.13124).
 
-- Iztok Fister Jr., Samo Rauter, Dušan Fister, Iztok Fister. [A collection of sport activity datasets with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publications/Sport5.zip). Technical report, University of Maribor, November 2017
+### Cycling 🚲
 
-- Samo Rauter, Iztok Fister Jr., Iztok Fister. [A collection of sport activity files for data analysis and data mining 2016a](http://iztok-jr-fister.eu/static/css/datasets/Sport2.zip). Technical report 0101, University of Ljubljana and University of Maribor 2016a, 2016
+- Fister Jr., et al. “[A collection of sport activity datasets for data analysis and data mining 2017a](http://iztok-jr-fister.eu/static/publications/Sport4.zip).” Technical report 2017a, University of Maribor, 2017
 
-- Iztok Fister Jr., Samo Rauter, Dušan Fister, Iztok Fister. [A collection of sport activity datasets for data analysis and data mining 2016b](http://iztok-jr-fister.eu/static/publications/Sport3.zip). Technical report 2016b, University of Maribor, 2016
+- Iztok Fister Jr., Samo Rauter, Dušan Fister, Iztok Fister. “[A collection of sport activity datasets with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publications/Sport5.zip).” Technical report, University of Maribor, November 2017
 
-- Samo Rauter, Iztok Fister Jr., Iztok Fister. [A collection of sport activity files for data analysis and data mining](http://iztok-jr-fister.eu/static/css/datasets/Sport.zip). Ver 12 05, University of Maribor, 2015
+- Rajšp, Alen, and Iztok Fister Jr. “[Neo4j Graph Dataset of Cycling Paths in Slovenia](https://www.sciencedirect.com/science/article/pii/S2352340923003700).”. Data in Brief, vol. 48, June 2023, p. 109251, doi:[10.1016/j.dib.2023.109251](https://doi.org/10.1016/j.dib.2023.109251).
+
+- Samo Rauter, Iztok Fister Jr., Iztok Fister. “[A collection of sport activity files for data analysis and data mining 2016a](http://iztok-jr-fister.eu/static/css/datasets/Sport2.zip).” Technical report 0101, University of Ljubljana and University of Maribor 2016a, 2016
+
+- Iztok Fister Jr., Samo Rauter, Dušan Fister, Iztok Fister. “[A collection of sport activity datasets for data analysis and data mining 2016b](http://iztok-jr-fister.eu/static/publications/Sport3.zip).” Technical report 2016b, University of Maribor, 2016
+
+- Samo Rauter, Iztok Fister Jr., Iztok Fister. “[A collection of sport activity files for data analysis and data mining](http://iztok-jr-fister.eu/static/css/datasets/Sport.zip).” Ver 12 05, University of Maribor, 2015
 
 ### Soccer ⚽️
 
-- Rouissi, Mehdi, et al. "[Data concerning isometric lower limb strength of dominant versus not-dominant leg in young elite soccer players](https://www.sciencedirect.com/science/article/pii/S2352340918300258)." (2018).
+- Rouissi, Mehdi, et al. “[Data concerning isometric lower limb strength of dominant versus not-dominant leg in young elite soccer players](https://www.sciencedirect.com/science/article/pii/S2352340918300258).” (2018).
 
-- Pappalardo, Luca, et al. "[A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)." Scientific data 6.1 (2019): 1-15.
+- Pappalardo, Luca, et al. “[A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).” Scientific data 6.1 (2019): 1-15.
 
-- Slimani, Maamer, Armin Paravlić, and Nicola Luigi Bragazzi. "[Data concerning the effect of plyometric training on jump performance in soccer players: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S2352340917304857)." Data in brief 15 (2017): 324-334.
+- Slimani, Maamer, Armin Paravlić, and Nicola Luigi Bragazzi. “[Data concerning the effect of plyometric training on jump performance in soccer players: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S2352340917304857).” Data in brief 15 (2017): 324-334.
 
-### Track and field 🏃‍♂️
+### Track and field 🏃‍
 
-- Aguilera-Castells, Joan, et al. "[Correlational data concerning body centre of mass acceleration, muscle activity, and forces exerted during a suspended lunge under different stability conditions in high-standard track and field athletes](https://www.sciencedirect.com/science/article/pii/S2352340919312673)." Data in brief 28 (2020): 104912.
+- Aguilera-Castells, Joan, et al. “[Correlational data concerning body centre of mass acceleration, muscle activity, and forces exerted during a suspended lunge under different stability conditions in high-standard track and field athletes](https://www.sciencedirect.com/science/article/pii/S2352340919312673).” Data in brief 28 (2020): 104912.
 
 ### Triathlon 🥉
 
-- Iztok Fister Jr., Dušan Fister. [A collection of IRONMAN, IRONMAN 70.3 and Ultra-triathlon race results](http://iztok-jr-fister.eu/static/publications/158.pdf), version 0.1, Technical Report 0110, 2016
+- Iztok Fister Jr., Dušan Fister. “[A collection of IRONMAN, IRONMAN 70.3 and Ultra-triathlon race results](http://iztok-jr-fister.eu/static/publications/158.pdf).”, version 0.1, Technical Report 0110, 2016
 
 ### Wrestling 🤼‍♀️
 
-- Okagbue, Hilary I., et al. "[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747), 1988–2018." Data in brief 19 (2018): 1458-1465.
+- Okagbue, Hilary I., et al. “[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747).”, 1988–2018." Data in brief 19 (2018): 1458-1465.
 
 ## Software 💻
 
