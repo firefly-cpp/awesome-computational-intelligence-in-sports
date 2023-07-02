@@ -22,10 +22,10 @@ This repository serves as a list of knowledge for researchers working in Computa
 - [Datasets 📊](#datasets-)
   - [Basketball 🏀](#basketball-)
   - [Cycling 🚲](#cycling-)
-  - [Soccer ⚽️](#soccer-%EF%B8%8F)
-  - [Track and field 🏃‍♂️](#track-and-field-%EF%B8%8F)
+  - [Soccer ⚽](#soccer-)
+  - [Track and field 🏃‍](#track-and-field-)
   - [Triathlon 🥉](#triathlon-) 
-  - [Wrestling 🤼‍♀️](#wrestling-%EF%B8%8F)
+  - [Wrestling 🤼‍♀️](#wrestling-)
 - [Software 💻](#software-)
 - [Web applications 🌐](#web-applications-)
  
@@ -256,7 +256,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Slimani, Maamer, Armin Paravlić, and Nicola Luigi Bragazzi. “[Data concerning the effect of plyometric training on jump performance in soccer players: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S2352340917304857).” Data in brief 15 (2017): 324-334.
 
-### Track and field 🏃‍♂️
+### Track and field 🏃‍
 
 - Aguilera-Castells, Joan, et al. “[Correlational data concerning body centre of mass acceleration, muscle activity, and forces exerted during a suspended lunge under different stability conditions in high-standard track and field athletes](https://www.sciencedirect.com/science/article/pii/S2352340919312673).” Data in brief 28 (2020): 104912.
 
