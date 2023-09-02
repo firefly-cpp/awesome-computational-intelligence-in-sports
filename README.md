@@ -113,7 +113,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 - Fister Jr., Iztok. “[The Relevance of Nature-Inspired Metaheuristic Algorithms in Smart Sport Training](https://link.springer.com/chapter/10.1007/978-3-030-80216-5_1).” International Conference on Emerging Applications and Technologies for Industry 4.0 (EATI'2020), edited by Jemal H Abawajy et al., Springer International Publishing, 2021, pp. 1–8, doi:[10.1007/978-3-030-80216-5_1](https://doi.org/10.1007/978-3-030-80216-5_1).
 
-- Fister, Iztok Jr, et al. “[Adaptation of Sport Training Plans by Swarm Intelligence](https://link.springer.com/chapter/10.1007/978-3-319-97888-8_5).” Recent Advances in Soft Computing, edited by Radek Matoušek, Springer International Publishing, 2019, pp. 56–67, doi:[10.1007/978-3-319-97888-8_5](https://doi.org/10.1007/978-3-319-97888-8_5).
+- Fister Jr., Iztok., et al. “[Adaptation of Sport Training Plans by Swarm Intelligence](https://link.springer.com/chapter/10.1007/978-3-319-97888-8_5).” Recent Advances in Soft Computing, edited by Radek Matoušek, Springer International Publishing, 2019, pp. 56–67, doi:[10.1007/978-3-319-97888-8_5](https://doi.org/10.1007/978-3-319-97888-8_5).
 
 - Fister Jr, Iztok, et al. “[New Perspectives in the Development of the Artificial Sport Trainer](https://www.mdpi.com/2076-3417/11/23/11452/htm).” Applied Sciences, vol. 11, no. 23, Multidisciplinary Digital Publishing Institute, Dec. 2021, p. 11452, doi:[10.3390/app112311452](https://doi.org/10.3390/app112311452).
 
