@@ -1,4 +1,5 @@
 # Awesome Computational Intelligence in Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10431418.svg)](https://doi.org/10.5281/zenodo.10431418)
 
 <p align="center">
 <img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence in Sports logo" style="height: 126px; width:126px;"/>
