@@ -291,3 +291,9 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
 
 ## Web applications 🌐
+
+---
+
+## Cite us
+
+Fister Jr., I. (2023). firefly-cpp/awesome-computational-intelligence-in-sports: 1.0 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10431418](https://doi.org/10.5281/zenodo.10431418)
