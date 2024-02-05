@@ -1,4 +1,5 @@
 # Awesome Computational Intelligence in Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10431418.svg)](https://doi.org/10.5281/zenodo.10431418)
 
 <p align="center">
@@ -40,7 +41,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ## Review papers 📃
 
--   Beal, Ryan, et al. “[Artificial intelligence for team sports: a survey](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/artificial-intelligence-for-team-sports-a-survey/2E0E32861D031C022603F670B23B55B3).” _The Knowledge Engineering Review_, vol. 34, Cambridge University Press, 2019, doi: [10.1017/S0269888919000225](https://doi.org/10.1017/S0269888919000225).
+-   Beal, Ryan, et al. “[Artificial intelligence for team sports: a survey](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/artificial-intelligence-for-team-sports-a-survey/2E0E32861D031C022603F670B23B55B3).” The Knowledge Engineering Review, vol. 34, Cambridge University Press, 2019, doi:[10.1017/S0269888919000225](https://doi.org/10.1017/S0269888919000225).
 
 -   Bonidia, Robson P., et al. “[Data Mining in Sports: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/8291478/).” IEEE Latin America Transactions, vol. 16, no. 1, IEEE Computer Society, Jan. 2018, pp. 232–39, doi:[10.1109/TLA.2018.8291478](https://doi.org/10.1109/TLA.2018.8291478).
 
@@ -54,19 +55,21 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machine Learning: A Literature Review](https://ieeexplore.ieee.org/abstract/document/9857881).” IEEE Access, vol. 10, 2022, pp. 86874–903, doi:[10.1109/ACCESS.2022.3198935](https://doi.org/10.1109/ACCESS.2022.3198935).
 
+-   Krstić, Dušan, et al. “[The Application and Impact of Artificial Intelligence on Sports Performance Improvement: A Systematic Literature Review](https://ieeexplore.ieee.org/abstract/document/10378750).” 2023 4th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), IEEE, 2023, pp. 1–8, doi:[10.1109/CIEES58940.2023.10378750](https://doi.org/10.1109/CIEES58940.2023.10378750).
+
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
 
--   Nalbant, Kemal Gökhan, and Sevgi Aydın. “[Literature Review on the Relationship between Artificial Intelligence Technologies with Digital Sports Marketing and Sports Management](https://ejournal.unma.ac.id/index.php/ijsm/article/view/2876)”. Indonesian Journal of Sport Management, vol. 2, no. 2, Oct. 2022, pp. 135–43, doi:[10.31949/ijsm.v2i2.2876](https://doi.org/10.31949/ijsm.v2i2.2876).
+-   Nalbant, Kemal Gökhan, and Sevgi Aydın. “[Literature Review on the Relationship between Artificial Intelligence Technologies with Digital Sports Marketing and Sports Management](https://ejournal.unma.ac.id/index.php/ijsm/article/view/2876).” Indonesian Journal of Sport Management, vol. 2, no. 2, Oct. 2022, pp. 135–43, doi:[10.31949/ijsm.v2i2.2876](https://doi.org/10.31949/ijsm.v2i2.2876).
 
 -   Rajšp, Alen, and Iztok Jr. Fister. “[A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training](https://www.mdpi.com/2076-3417/10/9/3013).” Applied Sciences, vol. 10, no. 9, Multidisciplinary Digital Publishing Institute, Apr. 2020, p. 3013, doi:[10.3390/app10093013](https://doi.org/10.3390/app10093013).
 
--   Song, Yu (Wolf). “[Human Digital Twin, the Development and Impact on Design](https://asmedigitalcollection.asme.org/computingengineering/article/23/6/060819/1166203/Human-Digital-Twin-the-Development-and-Impact-on).”. Journal of Computing and Information Science in Engineering, vol. 23, no. 6, Dec. 2023, doi:[10.1115/1.4063132](https://doi.org/10.1115/1.4063132).
+-   Song, Yu (Wolf). “[Human Digital Twin, the Development and Impact on Design](https://asmedigitalcollection.asme.org/computingengineering/article/23/6/060819/1166203/Human-Digital-Twin-the-Development-and-Impact-on).” Journal of Computing and Information Science in Engineering, vol. 23, no. 6, Dec. 2023, doi:[10.1115/1.4063132](https://doi.org/10.1115/1.4063132).
 
 -   Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
 
 ## Research papers 🔬
 
--   Adeyemo, Victor Elijah, et al. “[Identification of Pattern Mining Algorithm for Rugby League Players Positional Groups Separation Based on Movement Patterns](http://arxiv.org/abs/2302.14058)”. ArXiv, Feb. 2023, p. 2023, http://arxiv.org/abs/2302.14058.
+-   Adeyemo, Victor Elijah, et al. “[Identification of Pattern Mining Algorithm for Rugby League Players Positional Groups Separation Based on Movement Patterns](http://arxiv.org/abs/2302.14058).” ArXiv, Feb. 2023, p. 2023, http://arxiv.org/abs/2302.14058.
 
 -   Ariyaratne, M. K. A., and R. M. Silva. “[Meta-Heuristics Meet Sports: A Systematic Review from the Viewpoint of Nature Inspired Algorithms](https://sciendo.com/article/10.2478/ijcss-2022-0003).” International Journal of Computer Science in Sport, vol. 21, no. 1, Mar. 2022, pp. 49–92, doi:[10.2478/ijcss-2022-0003](https://doi.org/10.2478/ijcss-2022-0003).
 
@@ -86,7 +89,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Connor, Mark, et al. “[Adaptive Athlete Training Plan Generation: An Intelligent Control Systems Approach](https://www.sciencedirect.com/science/article/pii/S1440244021004679).” Journal of Science and Medicine in Sport, vol. 25, no. 4, Elsevier, Apr. 2022, pp. 351–55, doi:[10.1016/j.jsams.2021.10.011](https://doi.org/10.1016/j.jsams.2021.10.011).
 
--   De Prisco, Roberto, et al. [Providing Music Service in Ambient Intelligence: experiments with gym users](https://www.sciencedirect.com/science/article/abs/pii/S0957417421003924).” Expert Systems with Applications, vol. 177, Pergamon, Sept. 2021, p. 114951, doi:[10.1016/j.eswa.2021.114951](https://doi.org/10.1016/j.eswa.2021.114951).
+-   De Prisco, Roberto, et al. “[Providing Music Service in Ambient Intelligence: experiments with gym users](https://www.sciencedirect.com/science/article/abs/pii/S0957417421003924).” Expert Systems with Applications, vol. 177, Pergamon, Sept. 2021, p. 114951, doi:[10.1016/j.eswa.2021.114951](https://doi.org/10.1016/j.eswa.2021.114951).
 
 -   Deng, Huijian, et al. “[Prediction of Sports Aggression Behavior and Analysis of Sports Intervention Based on Swarm Intelligence Model](https://www.hindawi.com/journals/sp/2022/2479939/).” Scientific Programming, vol. 2022, Hindawi Limited, 2022, doi:[10.1155/2022/2479939](https://doi.org/10.1155/2022/2479939).
 
@@ -98,7 +101,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Feely, Ciara, et al. “[A Case-Based Reasoning Approach to Predicting and Explaining Running Related Injuries](<(https://link.springer.com/chapter/10.1007/978-3-030-86957-1_6)>).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12877 LNAI, Springer, Cham, 2021, pp. 79–93, doi:[10.1007/978-3-030-86957-1_6](https://doi.org/10.1007/978-3-030-86957-1_6).
 
--   Feely, Ciara, et al. “[Modelling the Training Practices of Recreational Marathon Runners to Make Personalised Training Recommendations](https://dl.acm.org/doi/pdf/10.1145/3565472.3592952)”. Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization, ACM, 2023, pp. 183–93, doi:[10.1145/3565472.3592952](https://doi.org/10.1145/3565472.3592952).
+-   Feely, Ciara, et al. “[Modelling the Training Practices of Recreational Marathon Runners to Make Personalised Training Recommendations](https://dl.acm.org/doi/pdf/10.1145/3565472.3592952).” Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization, ACM, 2023, pp. 183–93, doi:[10.1145/3565472.3592952](https://doi.org/10.1145/3565472.3592952).
 
 -   Ferencsik, Dorina K., and Erika B. Varga. “[Cycling Activity Dataset Creation and Application for Feedback Giving](https://sciendo.com/article/10.2478/amset-2021-0015).” Acta Marisiensis. Seria Technologica, vol. 18, no. 2, Walter de Gruyter GmbH, Dec. 2021, pp. 29–35, doi:[10.2478/AMSET-2021-0015](https://doi.org/10.2478/amset-2021-0015).
 
@@ -106,9 +109,9 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Fidelis, J. Vijay, and E. Karthikeyan. “[Player Management in Soccer Using Particle Swarm Optimization](https://ieeexplore.ieee.org/abstract/document/9114599).” 4th International Conference on Electrical, Electronics, Communication, Computer Technologies and Optimization Techniques, ICEECCOT 2019, Institute of Electrical and Electronics Engineers Inc., Dec. 2019, pp. 303–08, doi:[10.1109/ICEECCOT46775.2019.9114599](https://doi.org/10.1109/ICEECCOT46775.2019.9114599).
 
--   Fister, Dušan, et al. "[Visualization of cycling training](http://www.iztok-jr-fister.eu/static/publications/160.pdf)." Proceedings of the StuCoSReC: 3rd Student Computer Science Research Conference, Koper, Slovenia. 2016.
+-   Fister, Dušan, et al. “[Visualization of cycling training](http://www.iztok-jr-fister.eu/static/publications/160.pdf).” Proceedings of the StuCoSReC: 3rd Student Computer Science Research Conference, Koper, Slovenia. 2016.
 
--   Fister, Iztok, et al. [Framework for Planning the Training Sessions in Triathlon](https://dl.acm.org/doi/abs/10.1145/3205651.3208242).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2018, pp. 1829–34, doi:[10.1145/3205651.3208242](https://doi.org/10.1145/3205651.3208242).
+-   Fister, Iztok, et al. “[Framework for Planning the Training Sessions in Triathlon](https://dl.acm.org/doi/abs/10.1145/3205651.3208242).” Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM, 2018, pp. 1829–34, doi:[10.1145/3205651.3208242](https://doi.org/10.1145/3205651.3208242).
 
 -   Fister, Iztok, et al. “[Planning the Sports Training Sessions with the Bat Algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009710).” Neurocomputing, vol. 149, no. PB, Elsevier, Feb. 2015, pp. 993–1002, doi:[10.1016/J.NEUCOM.2014.07.034](https://doi.org/10.1016/j.neucom.2014.07.034).
 
@@ -122,7 +125,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Fister Jr, Iztok , et al. “[SportyDataGen: An Online Generator of Endurance Sports Activity Collections](http://www.iztok-jr-fister.eu/static/publications/225.pdf).” Proceedings of the Central European Conference on Information and Intelligent Systems, Faculty of Organization and Informatics, University of Zagreb, 2018, pp. 171–78.
 
--   Fister Jr, Iztok, et al. “[The Importance of Monitoring and Maintaining Data in Sports Training Process](https://www.iztok-jr-fister.eu/static/publications/191.pdf)”. Proceedings of the 8th Conference for Youth Sport, 2016.
+-   Fister Jr, Iztok, et al. “[The Importance of Monitoring and Maintaining Data in Sports Training Process](https://www.iztok-jr-fister.eu/static/publications/191.pdf).” Proceedings of the 8th Conference for Youth Sport, 2016.
 
 -   Fister Jr, Iztok, et al. “[Topology-Based Generation of Sport Training Sessions](https://link.springer.com/article/10.1007/s12652-020-02048-1).” Journal of Ambient Intelligence and Humanized Computing, vol. 12, no. 1, Springer Science and Business Media Deutschland GmbH, Jan. 2021, pp. 667–78, doi:[10.1007/s12652-020-02048-1](https://doi.org/10.1007/s12652-020-02048-1).
 
@@ -148,7 +151,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Langaroudi, Milad Keshtkar, and Mohammad Reza Yamaghani. “[Sports Result Prediction Based on Machine Learning and Computational Intelligence Approaches: A Survey](https://jacet.srbiau.ac.ir/article_13599.html).” Journal of Advances in Computer Engineering and Technology, vol. 5, no. 1, 2019, pp. 27–36.
 
--   Lee, Geon Ju, et al. “[Exploiting Weighted Association Rule Mining for Indicating Synergic Formation Tactics in Soccer Teams](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6221)”. Concurrency and Computation: Practice and Experience, 2021, p. e6221, doi:[10.1002/CPE.6221](https://doi.org/10.1002/CPE.6221).
+-   Lee, Geon Ju, et al. “[Exploiting Weighted Association Rule Mining for Indicating Synergic Formation Tactics in Soccer Teams](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6221).” Concurrency and Computation: Practice and Experience, 2021, p. e6221, doi:[10.1002/CPE.6221](https://doi.org/10.1002/CPE.6221).
 
 -   Li, Gang, and Tongzhou Zhao. “[Approach of Intelligence Question-Answering System Based on Physical Fitness Knowledge Graph](https://ieeexplore.ieee.org/abstract/document/9638824).” 2021 4th International Conference on Robotics, Control and Automation Engineering (RCAE), IEEE, 2021, pp. 191–95, doi:[10.1109/RCAE53607.2021.9638824](https://doi.org/10.1109/RCAE53607.2021.9638824).
 
@@ -156,9 +159,11 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Lopez-Gomez, Julio Alberto, et al. “[A Feature-Weighting Approach Using Metaheuristic Algorithms to Evaluate the Performance of Handball Goalkeepers](https://ieeexplore.ieee.org/abstract/document/9726167/).” IEEE Access, 2022, pp. 1–1, doi:[10.1109/ACCESS.2022.3156120](https://doi.org/10.1109/ACCESS.2022.3156120).
 
+-   López-Serrano, Carlos, et al. “[Contextualizing Evaluation of Performance in Volleyball: Introducing Contextual Individual Contribution Coefficients to Assess Technical Actions](https://pubmed.ncbi.nlm.nih.gov/37927053/).” Perceptual and Motor Skills, vol. 130, no. 6, Dec. 2023, pp. 2663–84, doi:[10.1177/00315125231212592](https://doi.org/10.1177/00315125231212592).
+
 -   Lukac, Luka, et al. “[A Minimalistic Toolbox for Extracting Features from Sport Activity Files](https://ieeexplore.ieee.org/abstract/document/9512927).” 2021 IEEE 25th International Conference on Intelligent Engineering Systems (INES), IEEE, 2021, pp. 000121–26, doi:[10.1109/INES52918.2021.9512927](https://doi.org/10.1109/INES52918.2021.9512927).
 
--   Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](https://www.mdpi.com/2076-3417/12/24/12741)”. Applied Sciences, vol. 12, no. 24, Dec. 2022, p. 12741, doi:[10.3390/app122412741](https://doi.org/10.3390/app122412741).
+-   Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](https://www.mdpi.com/2076-3417/12/24/12741).” Applied Sciences, vol. 12, no. 24, Dec. 2022, p. 12741, doi:[10.3390/app122412741](https://doi.org/10.3390/app122412741).
 
 -   Matabuena, Marcos, and Rosana Rodríguez-López. “[An Improved Version of the Classical Banister Model to Predict Changes in Physical Condition](https://link.springer.com/article/10.1007/s11538-019-00588-y).” Bulletin of Mathematical Biology, vol. 81, no. 6, Springer New York LLC, June 2019, pp. 1867–84, doi:[10.1007/S11538-019-00588-Y](https://doi.org/10.1007/s11538-019-00588-y).
 
@@ -178,7 +183,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Podgorelec, Vili, et al. “[Classification of Similar Sports Images Using Convolutional Neural Network with Hyper-Parameter Optimization](https://www.mdpi.com/2076-3417/10/23/8494).” Applied Sciences, vol. 10, no. 23, Multidisciplinary Digital Publishing Institute, Nov. 2020, p. 8494, doi:[10.3390/app10238494](https://doi.org/10.3390/app10238494).
 
--   Rajsp, Alen, and Iztok Jr Fister. “[A Modified Evolutionary Algorithm for Generating the Cycling Training Routes](https://ieeexplore.ieee.org/abstract/document/9919828)”. IEEE Access, vol. 10, 2022, pp. 109743–59, doi:[10.1109/ACCESS.2022.3214997](https://doi.org/10.1109/ACCESS.2022.3214997).
+-   Rajsp, Alen, and Iztok Jr Fister. “[A Modified Evolutionary Algorithm for Generating the Cycling Training Routes](https://ieeexplore.ieee.org/abstract/document/9919828).” IEEE Access, vol. 10, 2022, pp. 109743–59, doi:[10.1109/ACCESS.2022.3214997](https://doi.org/10.1109/ACCESS.2022.3214997).
 
 -   Rajšp, Alen, and Iztok Jr Fister. “[Discovering the Influence of Interruptions in Cycling Training: A Data Science Study](https://link.springer.com/chapter/10.1007/978-3-030-77970-2_32).” Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 12745 LNCS, Springer, Cham, 2021, pp. 420–432, doi:[10.1007/978-3-030-77970-2_32](https://doi.org/10.1007/978-3-030-77970-2_32).
 
@@ -202,27 +207,31 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Smyth, Barry, et al. “[Recommendations for Marathon Runners: On the Application of Recommender Systems and Machine Learning to Support Recreational Marathon Runners](https://link.springer.com/article/10.1007/s11257-021-09299-3).” User Modeling and User-Adapted Interaction, Springer, Aug. 2021, pp. 1–52, doi:[10.1007/s11257-021-09299-3](https://doi.org/10.1007/s11257-021-09299-3).
 
--   Stöckl, Michael, and Stuart Morgan. “[Visualization and Analysis of Spatial Characteristics of Attacks in Field Hockey](https://www.tandfonline.com/doi/abs/10.1080/24748668.2013.11868639)”. International Journal of Performance Analysis in Sport, vol. 13, no. 1, Apr. 2013, pp. 160–78, doi:[10.1080/24748668.2013.11868639](https://doi.org/10.1080/24748668.2013.11868639).
+-   Stöckl, Michael, and Stuart Morgan. “[Visualization and Analysis of Spatial Characteristics of Attacks in Field Hockey](https://www.tandfonline.com/doi/abs/10.1080/24748668.2013.11868639).” International Journal of Performance Analysis in Sport, vol. 13, no. 1, Apr. 2013, pp. 160–78, doi:[10.1080/24748668.2013.11868639](https://doi.org/10.1080/24748668.2013.11868639).
 
 -   Teikari, Petteri, and Aleksandra Pietrusz. “[Precision Strength Training: Data-Driven Artificial Intelligence Approach to Strength and Conditioning](https://osf.io/preprints/sportrxiv/w734a/).” SportRxiv, 2021, doi:[10.31236/OSF.IO/W734A](https://doi.org/10.31236/OSF.IO/W734A). Preprint.
 
 -   Van Bulck, David, et al. “[Result-Based Talent Identification in Road Cycling: Discovering the next Eddy Merckx](https://link.springer.com/article/10.1007/s10479-021-04280-0).” Annals of Operations Research, Springer, Oct. 2021, pp. 1–18, doi:[10.1007/s10479-021-04280-0](https://doi.org/10.1007/s10479-021-04280-0).
 
--   Xiong, Shengyao, and Xinwei Li. “[Intelligent Strategy of Internet of Things Computing in Badminton Sports Activities](https://www.hindawi.com/journals/wcmc/2022/9409151/)”. Wireless Communications and Mobile Computing, edited by Venkateswaran N, vol. 2022, Oct. 2022, pp. 1–9, doi:[10.1155/2022/9409151](https://doi.org/10.1155/2022/9409151).
+-   Wang, Zhen, et al. “[Quantum Photonics Advancements Enhancing Health and Sports Performance.” Optical and Quantum Electronics](https://link.springer.com/article/10.1007/s11082-023-05917-z), vol. 56, no. 3, Mar. 2024, pp. 1–12, doi:[10.1007/s11082-023-05917-z](https://doi.org/10.1007/s11082-023-05917-z).
+
+-   Xiong, Shengyao, and Xinwei Li. “[Intelligent Strategy of Internet of Things Computing in Badminton Sports Activities](https://www.hindawi.com/journals/wcmc/2022/9409151/).” Wireless Communications and Mobile Computing, edited by Venkateswaran N, vol. 2022, Oct. 2022, pp. 1–9, doi:[10.1155/2022/9409151](https://doi.org/10.1155/2022/9409151).
 
 -   Yashiro, Kotaro, and Yohei Nakada. “[Fast Implementation for Computational Method of Optimum Attacking Play in Rugby Sevens](https://link.springer.com/chapter/10.1007/978-981-19-0836-1_8).” Modeling, Simulation and Optimization, edited by Biplab Das et al., Springer Nature, 2022, pp. 97–109. Springer Link, doi:[10.1007/978-981-19-0836-1_8](https://doi.org/10.1007/978-981-19-0836-1_8).
 
--   Zaib, Ali, and Muhammad Talal Ahmad. “[Research on Biomechanical Analysis of Football Player Using Information Technology in Sports Field](https://www.rpd-online.com/index.php/rpd/article/view/761)”. Revista de Psicología Del Deporte (Journal of Sport Psychology), vol. 31, no. 3, Oct. 2022, pp. 21–30.
+-   Zaib, Ali, and Muhammad Talal Ahmad. “[Research on Biomechanical Analysis of Football Player Using Information Technology in Sports Field](https://www.rpd-online.com/index.php/rpd/article/view/761).” Revista de Psicología Del Deporte (Journal of Sport Psychology), vol. 31, no. 3, Oct. 2022, pp. 21–30.
 
 -   Zhang, Yuwang, and Yuan Zhang. “[Sports Training System Based on Convolutional Neural Networks and Data Mining](https://www.hindawi.com/journals/cin/2021/1331759/).” Computational Intelligence and Neuroscience, vol. 2021, Hindawi Limited, 2021, doi:[10.1155/2021/1331759](https://doi.org/10.1155/2021/1331759).
 
--   Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w)”. Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
+-   Zhou, Haisheng, and Yang Li. “[Design of Intelligent Analysis System of Basketball Skilled Movement Based on Data Mining Technology](https://ieeexplore.ieee.org/document/10383045).” 2023 IEEE 5th Eurasia Conference on IOT, Communication and Engineering (ECICE), IEEE, 2023, pp. 457–59, doi:[10.1109/ECICE59523.2023.10383045](https://doi.org/10.1109/ECICE59523.2023.10383045).
+
+-   Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w).” Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
 
 ## Dissertation or thesis 📒
 
--   Murillo Burford, Esteban. “[Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/)”. Wake Forest University Graduate School of Arts and Sciences, 2020.
+-   Murillo Burford, Esteban. “[Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/).” Wake Forest University Graduate School of Arts and Sciences, 2020.
 
--   Eriksson, Rikard, and Johan Nicander. “[Automated Generation of Training Programs for Swimmers Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://odr.chalmers.se/handle/20.500.12380/302927)”. Chalmers University of Technology, 2021, doi:[20.500.12380/302927](https://doi.org/20.500.12380/302927).
+-   Eriksson, Rikard, and Johan Nicander. “[Automated Generation of Training Programs for Swimmers Generating Weekly Training Plans in the Style of a Professional Swimming Coach Using Genetic Algorithms and Random Trees](https://odr.chalmers.se/handle/20.500.12380/302927).” Chalmers University of Technology, 2021, doi:[20.500.12380/302927](https://doi.org/20.500.12380/302927).
 
 ## Tutorials 📖
 
@@ -235,6 +244,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 ## Datasets 📊
 
 -   Rico-Garcia, Mateo, et al. “[Vertical Jump Data from Inertial and Optical Motion Tracking Systems](https://www.mdpi.com/2306-5729/7/8/116).” Data, vol. 7, no. 8, Aug. 2022, p. 116, doi:[10.3390/data7080116](https://doi.org/10.3390/data7080116).
+-   Romagnoli, Sofia, et al. “[Sport DB 2.0: A New Database of Data Acquired by Wearable and Portable Devices While Practicing Sport](https://ieeexplore.ieee.org/abstract/document/10364234).” 2023 Computing in Cardiology (CinC), vol. 50, 2023, pp. 1–4, doi:[10.22489/CinC.2023.067](https://doi.org/10.22489/CinC.2023.067).
 
 ### Basketball 🏀
 
@@ -246,7 +256,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Iztok Fister Jr., Samo Rauter, Dušan Fister, Iztok Fister. “[A collection of sport activity datasets with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publications/Sport5.zip).” Technical report, University of Maribor, November 2017
 
--   Rajšp, Alen, and Iztok Fister Jr. “[Neo4j Graph Dataset of Cycling Paths in Slovenia](https://www.sciencedirect.com/science/article/pii/S2352340923003700).”. Data in Brief, vol. 48, June 2023, p. 109251, doi:[10.1016/j.dib.2023.109251](https://doi.org/10.1016/j.dib.2023.109251).
+-   Rajšp, Alen, and Iztok Fister Jr. “[Neo4j Graph Dataset of Cycling Paths in Slovenia](https://www.sciencedirect.com/science/article/pii/S2352340923003700).” Data in Brief, vol. 48, June 2023, p. 109251, doi:[10.1016/j.dib.2023.109251](https://doi.org/10.1016/j.dib.2023.109251).
 
 -   Samo Rauter, Iztok Fister Jr., Iztok Fister. “[A collection of sport activity files for data analysis and data mining 2016a](http://iztok-jr-fister.eu/static/css/datasets/Sport2.zip).” Technical report 0101, University of Ljubljana and University of Maribor 2016a, 2016
 
@@ -272,7 +282,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ### Wrestling 🤼‍♀️
 
--   Okagbue, Hilary I., et al. “[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747).”, 1988–2018." Data in brief 19 (2018): 1458-1465.
+-   Okagbue, Hilary I., et al. “[Statistical analysis of frequencies of opponents׳ eliminations in Royal Rumble wrestling matches](https://www.sciencedirect.com/science/article/pii/S2352340918306747).”, 1988–2018.” Data in brief 19 (2018): 1458-1465.
 
 ## Benchmarks 🧪
 
@@ -288,6 +298,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   [python-tcxparser](https://github.com/vkurup/python-tcxparser) - Simple parser for Garmin TCX files.
 -   [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - A minimalistic toolbox for extracting features from sport activity files written in Python.
 -   [tcxreader](https://github.com/alenrajsp/tcxreader) - Reader / parser for Garmin's TCX file format.
+-   [TCXWriter](https://github.com/firefly-cpp/TCXWriter) - Library for writing/creating TCX files on Arduino & ESP32 devices
 -   [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
 
 ## Web applications 🌐
