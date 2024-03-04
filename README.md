@@ -115,7 +115,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Fister, Iztok, et al. “[Planning the Sports Training Sessions with the Bat Algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009710).” Neurocomputing, vol. 149, no. PB, Elsevier, Feb. 2015, pp. 993–1002, doi:[10.1016/J.NEUCOM.2014.07.034](https://doi.org/10.1016/j.neucom.2014.07.034).
 
--   Fister, Iztok, et al. “[Synthetic Data Augmentation of Cycling Sport Training Datasets](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_7).” Lecture Notes in Networks and Systems, vol. 371, Springer Science and Business Media Deutschland GmbH, 2022, pp. 65–74, doi:[10.1007/978-3-030-93247-3_7/COVER](https://doi.org/10.1007/978-3-030-93247-3_7/COVER).
+-   Fister, Iztok, et al. “[Synthetic Data Augmentation of Cycling Sport Training Datasets](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_7).” Lecture Notes in Networks and Systems, vol. 371, Springer Science and Business Media Deutschland GmbH, 2022, pp. 65–74, doi:[10.1007/978-3-030-93247-3_7](https://doi.org/10.1007/978-3-030-93247-3_7).
 
 -   Fister Jr., Iztok. “[The Relevance of Nature-Inspired Metaheuristic Algorithms in Smart Sport Training](https://link.springer.com/chapter/10.1007/978-3-030-80216-5_1).” International Conference on Emerging Applications and Technologies for Industry 4.0 (EATI'2020), edited by Jemal H Abawajy et al., Springer International Publishing, 2021, pp. 1–8, doi:[10.1007/978-3-030-80216-5_1](https://doi.org/10.1007/978-3-030-80216-5_1).
 
