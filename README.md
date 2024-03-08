@@ -49,6 +49,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Bunker, Rory, and Teo Susnjak. “[The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://www.jair.org/index.php/jair/article/view/13509).” Journal of Artificial Intelligence Research, vol. 73, AI Access Foundation, Apr. 2022, pp. 1285–322, doi:[10.1613/JAIR.1.13509](https://doi.org/10.1613/JAIR.1.13509).
 
+-   Cardenas Hernandez, Fernando Pedro, et al. “[Beyond Hard Workout: A Multimodal Framework for Personalised Running Training with Immersive Technologies](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/bjet.13445).” British Journal of Educational Technology, doi:[10.1111/bjet.13445](https://doi.org/10.1111/bjet.13445).
+
 -   Farrokhi, Alireza, et al. “[Application of Internet of Things and Artificial Intelligence for Smart Fitness: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621000360).” Computer Networks, vol. 189, Elsevier, Apr. 2021, p. 107859, doi:[10.1016/j.comnet.2021.107859](https://doi.org/10.1016/j.comnet.2021.107859).
 
 -   Fister Jr, Iztok, et al. “[Computational Intelligence in Sports: Challenges and Opportunities within a New Research Domain](https://www.sciencedirect.com/science/article/abs/pii/S0096300315004300).” Applied Mathematics and Computation, vol. 262, Elsevier, July 2015, pp. 178–86, doi:[10.1016/j.amc.2015.04.004](https://doi.org/10.1016/j.amc.2015.04.004).
@@ -58,6 +60,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Krstić, Dušan, et al. “[The Application and Impact of Artificial Intelligence on Sports Performance Improvement: A Systematic Literature Review](https://ieeexplore.ieee.org/abstract/document/10378750).” 2023 4th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), IEEE, 2023, pp. 1–8, doi:[10.1109/CIEES58940.2023.10378750](https://doi.org/10.1109/CIEES58940.2023.10378750).
 
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
+
+-   Milasi, Sadegh Fatahi, et al. “[Unlocking the Potential: A Comprehensive Meta-Synthesis of Internet of Things in the Sports Industry](https://journals.sagepub.com/doi/10.1177/17543371241229521).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, vol., no., p. 17543371241229520, doi:[10.1177/17543371241229521](https://doi.org/10.1177/17543371241229521).
 
 -   Nalbant, Kemal Gökhan, and Sevgi Aydın. “[Literature Review on the Relationship between Artificial Intelligence Technologies with Digital Sports Marketing and Sports Management](https://ejournal.unma.ac.id/index.php/ijsm/article/view/2876).” Indonesian Journal of Sport Management, vol. 2, no. 2, Oct. 2022, pp. 135–43, doi:[10.31949/ijsm.v2i2.2876](https://doi.org/10.31949/ijsm.v2i2.2876).
 
@@ -196,6 +200,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Rodríguez-Gallego, Laura, et al. “[Assessment of Feedback Devices for Performance Monitoring in Master's Swimmers](https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2181556).” International Journal of Performance Analysis in Sport, vol. 22, no. 5, Sept. 2022, pp. 701–14, doi:[10.1080/24748668.2023.2181556](https://doi.org/10.1080/24748668.2023.2181556).
 
 -   Sakabe, Hibiki, and Yohei Nakada. “[Computational Method for Determining Optimal Dribbling Routes in Basketball](https://ieeexplore.ieee.org/abstract/document/9999118).” 2022 IEEE Eighth International Conference on Multimedia Big Data (BigMM), 2022, pp. 107–08. IEEE Xplore, doi:[10.1109/BigMM55396.2022.00024](https://doi.org/10.1109/BigMM55396.2022.00024).
+
+-   Sakabe, Hibiki, and Yohei Nakada. “[Enhanced Method for Computing Optimal Dribbling Routes Using Tracking Data in Basketball](https://ieeexplore.ieee.org/document/10411800).” 2023 IEEE Ninth Multimedia Big Data (BigMM), 2023, pp. 11–18, doi:[10.1109/BigMM59094.2023.00009](https://doi.org/10.1109/BigMM59094.2023.00009).
 
 -   Schaefer, David, et al. “[Training Plan Evolution Based on Training Models](https://ieeexplore.ieee.org/abstract/document/7276739).” 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA), IEEE, 2015, pp. 1–8, doi:[10.1109/INISTA.2015.7276739](https://doi.org/10.1109/INISTA.2015.7276739).
 
