@@ -69,6 +69,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Song, Yu (Wolf). “[Human Digital Twin, the Development and Impact on Design](https://asmedigitalcollection.asme.org/computingengineering/article/23/6/060819/1166203/Human-Digital-Twin-the-Development-and-Impact-on).” Journal of Computing and Information Science in Engineering, vol. 23, no. 6, Dec. 2023, doi:[10.1115/1.4063132](https://doi.org/10.1115/1.4063132).
 
+-   Szot, Tomasz. “[Evolution of Sport Wearable Global Navigation Satellite Systems’ Receivers: A Look at the Garmin Forerunner Series](https://journals.sagepub.com/doi/10.1177/17543371241237319).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, doi:[10.1177/17543371241237319](https://doi.org/10.1177/17543371241237319).
+
 -   Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
 
 ## Research papers 🔬
@@ -226,6 +228,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Yashiro, Kotaro, and Yohei Nakada. “[Fast Implementation for Computational Method of Optimum Attacking Play in Rugby Sevens](https://link.springer.com/chapter/10.1007/978-981-19-0836-1_8).” Modeling, Simulation and Optimization, edited by Biplab Das et al., Springer Nature, 2022, pp. 97–109. Springer Link, doi:[10.1007/978-981-19-0836-1_8](https://doi.org/10.1007/978-981-19-0836-1_8).
 
 -   Zaib, Ali, and Muhammad Talal Ahmad. “[Research on Biomechanical Analysis of Football Player Using Information Technology in Sports Field](https://www.rpd-online.com/index.php/rpd/article/view/761).” Revista de Psicología Del Deporte (Journal of Sport Psychology), vol. 31, no. 3, Oct. 2022, pp. 21–30.
+
+-   Zhang, Juwei, et al. “[The Relationship between Measurement and Evaluation in Physical Education Teaching Based on Intelligent Analysis and Sensor Data Mining](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs235410).” Journal of Intelligent & Fuzzy Systems, no. Preprint, IOS Press, pp. 1–16, doi:[10.3233/JIFS-235410](https://doi.org/10.3233/JIFS-235410).
 
 -   Zhang, Yuwang, and Yuan Zhang. “[Sports Training System Based on Convolutional Neural Networks and Data Mining](https://www.hindawi.com/journals/cin/2021/1331759/).” Computational Intelligence and Neuroscience, vol. 2021, Hindawi Limited, 2021, doi:[10.1155/2021/1331759](https://doi.org/10.1155/2021/1331759).
 
