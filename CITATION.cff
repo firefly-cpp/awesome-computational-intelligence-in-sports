@@ -1,0 +1,16 @@
+authors:
+- family-names: Fister Jr.
+  given-names: Iztok
+  orcid: 0000-0002-6418-1272
+- family-names: "Raj\u0161p"
+  given-names: Alen
+  orcid: 0000-0003-3219-018X
+cff-version: 1.2.0
+date-released: '2023-12-25'
+doi: 10.5281/zenodo.10431418
+license:
+- cc-by-4.0
+repository-code: https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports/tree/1.0
+title: 'firefly-cpp/awesome-computational-intelligence-in-sports: 1.0'
+type: software
+version: '1.0'
