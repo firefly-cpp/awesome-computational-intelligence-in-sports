@@ -61,6 +61,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
 
+- Lygouras, Dimosthenis, and Avgoustos Tsinakos. “[The Use of Immersive Technologies in Karate Training: A Scoping Review](https://www.mdpi.com/2414-4088/8/4/27).” Multimodal Technologies and Interaction, vol. 8, no. 4, 2024, [doi:10.3390/mti8040027](https://doi.org/10.3390/mti8040027). 
+
 -   Milasi, Sadegh Fatahi, et al. “[Unlocking the Potential: A Comprehensive Meta-Synthesis of Internet of Things in the Sports Industry](https://journals.sagepub.com/doi/10.1177/17543371241229521).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, vol., no., p. 17543371241229520, doi:[10.1177/17543371241229521](https://doi.org/10.1177/17543371241229521).
 
 -   Nalbant, Kemal Gökhan, and Sevgi Aydın. “[Literature Review on the Relationship between Artificial Intelligence Technologies with Digital Sports Marketing and Sports Management](https://ejournal.unma.ac.id/index.php/ijsm/article/view/2876).” Indonesian Journal of Sport Management, vol. 2, no. 2, Oct. 2022, pp. 135–43, doi:[10.31949/ijsm.v2i2.2876](https://doi.org/10.31949/ijsm.v2i2.2876).
@@ -72,6 +74,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Szot, Tomasz. “[Evolution of Sport Wearable Global Navigation Satellite Systems’ Receivers: A Look at the Garmin Forerunner Series](https://journals.sagepub.com/doi/10.1177/17543371241237319).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, doi:[10.1177/17543371241237319](https://doi.org/10.1177/17543371241237319).
 
 -   Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
+
+- Yang, Luyao, et al. “[Intelligent Wearable Systems: Opportunities and Challenges in Health and Sports](https://dl.acm.org/doi/pdf/10.1145/3648469).” ACM Comput. Surv., vol. 56, no. 7, Association for Computing Machinery, Apr. 2024, [doi:10.1145/3648469](https://doi.org/10.1145/3648469). 
 
 ## Research papers 🔬
 
