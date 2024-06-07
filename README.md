@@ -57,7 +57,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machine Learning: A Literature Review](https://ieeexplore.ieee.org/abstract/document/9857881).” IEEE Access, vol. 10, 2022, pp. 86874–903, doi:[10.1109/ACCESS.2022.3198935](https://doi.org/10.1109/ACCESS.2022.3198935).
 
--   Gámez Díaz, R.; Yu, Q.; Ding, Y.; Laamarti, F.; El Saddik, A. “[Digital Twin Coaching for Physical Activities: A Survey] (https://www.mdpi.com/1424-8220/20/20/5936).“ Sensors 2020, 20, 5936, doi:[10.3390/s20205936](https://doi.org/10.3390/s20205936).
+-   Gámez Díaz, R.; Yu, Q.; Ding, Y.; Laamarti, F.; El Saddik, A. “[Digital Twin Coaching for Physical Activities: A Survey](https://www.mdpi.com/1424-8220/20/20/5936).“ Sensors 2020, 20, 5936, doi:[10.3390/s20205936](https://doi.org/10.3390/s20205936).
 
 -   H. Pascual, X. M. Bruin, A. Alonso, J. Cerd`a, “[A systematic review on human modeling: Digging into human digital twin implementations](https://arxiv.org/abs/2302.03593).“, arXiv preprint, doi:[arXiv:2302.03593](https://doi.org/10.48550/arXiv.2302.03593).
 
