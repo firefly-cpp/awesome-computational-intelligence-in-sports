@@ -57,6 +57,10 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Frangoudes, Fotos, et al. “[Assessing Human Motion During Exercise Using Machine Learning: A Literature Review](https://ieeexplore.ieee.org/abstract/document/9857881).” IEEE Access, vol. 10, 2022, pp. 86874–903, doi:[10.1109/ACCESS.2022.3198935](https://doi.org/10.1109/ACCESS.2022.3198935).
 
+-   Gámez Díaz, R.; Yu, Q.; Ding, Y.; Laamarti, F.; El Saddik, A. “[Digital Twin Coaching for Physical Activities: A Survey](https://www.mdpi.com/1424-8220/20/20/5936).“ Sensors 2020, 20, 5936, doi:[10.3390/s20205936](https://doi.org/10.3390/s20205936).
+
+-   H. Pascual, X. M. Bruin, A. Alonso, J. Cerd`a, “[A systematic review on human modeling: Digging into human digital twin implementations](https://arxiv.org/abs/2302.03593).“, arXiv preprint, doi:[arXiv:2302.03593](https://doi.org/10.48550/arXiv.2302.03593).
+
 -   Krstić, Dušan, et al. “[The Application and Impact of Artificial Intelligence on Sports Performance Improvement: A Systematic Literature Review](https://ieeexplore.ieee.org/abstract/document/10378750).” 2023 4th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), IEEE, 2023, pp. 1–8, doi:[10.1109/CIEES58940.2023.10378750](https://doi.org/10.1109/CIEES58940.2023.10378750).
 
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
@@ -87,6 +91,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Barshan, Billur, and M. C. Yuksek. “[Recognizing Daily and Sports Activities in Two Open Source Machine Learning Environments Using Body-Worn Sensor Units](https://ieeexplore.ieee.org/abstract/document/8130901).” The Computer Journal, vol. 57, no. 11, Oxford University Press, Nov. 2014, pp. 1649–67, doi:[10.1093/comjnl/bxt075](https://doi.org/10.1093/comjnl/bxt075).
 
+-   Boillet, Alice, Laurent A. Messonnier, and Caroline Cohen. "[Individualized physiology-based digital twin model for sports performance prediction: a reinterpretation of the Margaria–Morton model](https://www.nature.com/articles/s41598-024-56042-0#Sec2)." Scientific Reports 14, no. 1 (2024): 5470, doi:[10.1038/s41598-024-56042-0](https://doi.org/10.1038/s41598-024-56042-0).
+
 -   Carey, David L., et al. “[Optimizing Preseason Training Loads in Australian Football](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p194.xml).” International Journal of Sports Physiology and Performance, vol. 13, no. 2, Human Kinetics, Feb. 2018, pp. 194–99, doi:[10.1123/ijspp.2016-0695](https://doi.org/10.1123/ijspp.2016-0695).
 
 -   Chacoma, Andrés, and Orlando V Billoni. “[Simple Mechanism Rules the Dynamics of Volleyball](http://arxiv.org/abs/2202.13765).” ArXiv, Feb. 2022, http://arxiv.org/abs/2202.13765.
@@ -102,6 +108,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   De Prisco, Roberto, et al. “[Providing Music Service in Ambient Intelligence: experiments with gym users](https://www.sciencedirect.com/science/article/abs/pii/S0957417421003924).” Expert Systems with Applications, vol. 177, Pergamon, Sept. 2021, p. 114951, doi:[10.1016/j.eswa.2021.114951](https://doi.org/10.1016/j.eswa.2021.114951).
 
 -   Deng, Huijian, et al. “[Prediction of Sports Aggression Behavior and Analysis of Sports Intervention Based on Swarm Intelligence Model](https://www.hindawi.com/journals/sp/2022/2479939/).” Scientific Programming, vol. 2022, Hindawi Limited, 2022, doi:[10.1155/2022/2479939](https://doi.org/10.1155/2022/2479939).
+
+-   Díaz, Rogelio Gámez, Fedwa Laamarti, and Abdulmotaleb El Saddik. "[DTCoach: your digital twin coach on the edge during COVID-19 and beyond](https://ieeexplore.ieee.org/abstract/document/9513635)." IEEE Instrumentation & Measurement Magazine 24, no. 6 (2021): 22-28, doi:[10.1109/MIM.2021.9513635](https://doi.org/10.1109/MIM.2021.9513635).
 
 -   Ding, Xianqiong, et al. “[Sports Training Model Based on GA Optimized Neural Network](https://ieeexplore.ieee.org/abstract/document/9526701).” Proceedings - 2020 13th International Conference on Intelligent Computation Technology and Automation, ICICTA 2020, Institute of Electrical and Electronics Engineers Inc., Oct. 2020, pp. 227–30, doi:[10.1109/ICICTA51737.2020.00055](https://doi.org/10.1109/ICICTA51737.2020.00055).
 
@@ -242,6 +250,10 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w).” Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
 
 ## Dissertation or thesis 📒
+
+-   Gámez Díaz, Rogelio. "[Digital Twin Coaching for Edge Computing Using Deep Learning Based 2D Pose Estimation](https://ruor.uottawa.ca/items/7b1bdb69-dc2e-4602-9566-d811ee67f39f)." PhD diss., Université d'Ottawa/University of Ottawa, 2021, doi:[10.20381/ruor-26229](http://dx.doi.org/10.20381/ruor-26229).
+
+-   Laamarti, Fedwa. "[Towards Standardized Digital Twins for Health, Sport, and Well-being](https://ruor.uottawa.ca/items/3736b7d6-8512-4f6e-bc91-962ab4d1d4f6)." PhD diss., Université d'Ottawa/University of Ottawa, 2019, doi:[10.20381/ruor-23746](http://dx.doi.org/10.20381/ruor-23746).
 
 -   Murillo Burford, Esteban. “[Predicting Cycling Performance Using Machine Learning](https://www.proquest.com/openview/f0f80c5fd5c48f67edd9b7f3a375563d/).” Wake Forest University Graduate School of Arts and Sciences, 2020.
 
