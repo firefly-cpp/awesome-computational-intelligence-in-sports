@@ -65,7 +65,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
 
-- Lygouras, Dimosthenis, and Avgoustos Tsinakos. “[The Use of Immersive Technologies in Karate Training: A Scoping Review](https://www.mdpi.com/2414-4088/8/4/27).” Multimodal Technologies and Interaction, vol. 8, no. 4, 2024, [doi:10.3390/mti8040027](https://doi.org/10.3390/mti8040027). 
+-   Lygouras, Dimosthenis, and Avgoustos Tsinakos. “[The Use of Immersive Technologies in Karate Training: A Scoping Review](https://www.mdpi.com/2414-4088/8/4/27).” Multimodal Technologies and Interaction, vol. 8, no. 4, 2024, [doi:10.3390/mti8040027](https://doi.org/10.3390/mti8040027). 
 
 -   Milasi, Sadegh Fatahi, et al. “[Unlocking the Potential: A Comprehensive Meta-Synthesis of Internet of Things in the Sports Industry](https://journals.sagepub.com/doi/10.1177/17543371241229521).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, vol., no., p. 17543371241229520, doi:[10.1177/17543371241229521](https://doi.org/10.1177/17543371241229521).
 
@@ -75,11 +75,13 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Song, Yu (Wolf). “[Human Digital Twin, the Development and Impact on Design](https://asmedigitalcollection.asme.org/computingengineering/article/23/6/060819/1166203/Human-Digital-Twin-the-Development-and-Impact-on).” Journal of Computing and Information Science in Engineering, vol. 23, no. 6, Dec. 2023, doi:[10.1115/1.4063132](https://doi.org/10.1115/1.4063132).
 
+-   Stessens, Loes, et al. “[Physical Performance Estimation in Practice: A Systematic Review of Advancements in Performance Prediction and Modeling in Cycling](https://journals.sagepub.com/doi/10.1177/17479541241262385).” International Journal of Sports Science & Coaching, vol., no., p. 17479541241262384, doi:[10.1177/17479541241262385](https://doi.org/10.1177/17479541241262385). 
+
 -   Szot, Tomasz. “[Evolution of Sport Wearable Global Navigation Satellite Systems’ Receivers: A Look at the Garmin Forerunner Series](https://journals.sagepub.com/doi/10.1177/17543371241237319).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, doi:[10.1177/17543371241237319](https://doi.org/10.1177/17543371241237319).
 
 -   Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
 
-- Yang, Luyao, et al. “[Intelligent Wearable Systems: Opportunities and Challenges in Health and Sports](https://dl.acm.org/doi/pdf/10.1145/3648469).” ACM Comput. Surv., vol. 56, no. 7, Association for Computing Machinery, Apr. 2024, [doi:10.1145/3648469](https://doi.org/10.1145/3648469). 
+-   Yang, Luyao, et al. “[Intelligent Wearable Systems: Opportunities and Challenges in Health and Sports](https://dl.acm.org/doi/pdf/10.1145/3648469).” ACM Comput. Surv., vol. 56, no. 7, Association for Computing Machinery, Apr. 2024, [doi:10.1145/3648469](https://doi.org/10.1145/3648469). 
 
 ## Research papers 🔬
 
@@ -183,6 +185,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Lukač, Luka, et al. “[Digital Twin in Sport: From an Idea to Realization](https://www.mdpi.com/2076-3417/12/24/12741).” Applied Sciences, vol. 12, no. 24, Dec. 2022, p. 12741, doi:[10.3390/app122412741](https://doi.org/10.3390/app122412741).
 
+-   Masagca, Ramon Carlo. “[The AI Coach: A 5-Week AI-Generated Calisthenics Training Program on Health-Related Physical Fitness Components of Untrained Collegiate Students](https://www.jhse.es/index.php/jhse/article/view/ai-generated-calisthenics-training-program).” Journal of Human Sport and Exercise , vol. 20, no. 1, 2024, pp. 39–56, doi:[10.55860/13v7e679](doi:10.55860/13v7e679).
+
 -   Matabuena, Marcos, and Rosana Rodríguez-López. “[An Improved Version of the Classical Banister Model to Predict Changes in Physical Condition](https://link.springer.com/article/10.1007/s11538-019-00588-y).” Bulletin of Mathematical Biology, vol. 81, no. 6, Springer New York LLC, June 2019, pp. 1867–84, doi:[10.1007/S11538-019-00588-Y](https://doi.org/10.1007/s11538-019-00588-y).
 
 -   Moutaouakil, Karim El, et al. “[Quadratic Programming and Triangular Numbers Ranking to an Optimal Moroccan Diet with Minimal Glycemic Load](http://iapress.org/index.php/soic/article/view/1541).” Statistics, Optimization & Information Computing, vol. 11, no. 1, 1, Jan. 2023, pp. 85–94. iapress.org, doi:[10.19139/soic-2310-5070-1541](https://doi.org/10.19139/soic-2310-5070-1541).
@@ -231,6 +235,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Teikari, Petteri, and Aleksandra Pietrusz. “[Precision Strength Training: Data-Driven Artificial Intelligence Approach to Strength and Conditioning](https://osf.io/preprints/sportrxiv/w734a/).” SportRxiv, 2021, doi:[10.31236/OSF.IO/W734A](https://doi.org/10.31236/OSF.IO/W734A). Preprint.
 
+-   Thorsen, Ola, et al. “[Can Machine Learning Help Reveal the Competitive Advantage of Elite Beach Volleyball Players?](https://ecp.ep.liu.se/index.php/sais/article/view/999)” Swedish Artificial Intelligence Society, 2024, pp. 57–66, doi:[10.3384/ecp208007](https://doi.org/10.3384/ecp208007).
+
 -   Van Bulck, David, et al. “[Result-Based Talent Identification in Road Cycling: Discovering the next Eddy Merckx](https://link.springer.com/article/10.1007/s10479-021-04280-0).” Annals of Operations Research, Springer, Oct. 2021, pp. 1–18, doi:[10.1007/s10479-021-04280-0](https://doi.org/10.1007/s10479-021-04280-0).
 
 -   Wang, Zhen, et al. “[Quantum Photonics Advancements Enhancing Health and Sports Performance.” Optical and Quantum Electronics](https://link.springer.com/article/10.1007/s11082-023-05917-z), vol. 56, no. 3, Mar. 2024, pp. 1–12, doi:[10.1007/s11082-023-05917-z](https://doi.org/10.1007/s11082-023-05917-z).
@@ -243,11 +249,15 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Zhang, Juwei, et al. “[The Relationship between Measurement and Evaluation in Physical Education Teaching Based on Intelligent Analysis and Sensor Data Mining](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs235410).” Journal of Intelligent & Fuzzy Systems, no. Preprint, IOS Press, pp. 1–16, doi:[10.3233/JIFS-235410](https://doi.org/10.3233/JIFS-235410).
 
+-   Zhang, Ying, et al. “[Research on Interactive Sports Game Experience in Physical Training System Based on Digital Entertainment Technology and Sensor Devices](https://www.sciencedirect.com/science/article/pii/S1875952124002349).” Entertainment Computing, 2024, p. 100866, doi:[10.1016/j.entcom.2024.100866](https://doi.org/10.1016/j.entcom.2024.100866).
+
 -   Zhang, Yuwang, and Yuan Zhang. “[Sports Training System Based on Convolutional Neural Networks and Data Mining](https://www.hindawi.com/journals/cin/2021/1331759/).” Computational Intelligence and Neuroscience, vol. 2021, Hindawi Limited, 2021, doi:[10.1155/2021/1331759](https://doi.org/10.1155/2021/1331759).
 
 -   Zhou, Haisheng, and Yang Li. “[Design of Intelligent Analysis System of Basketball Skilled Movement Based on Data Mining Technology](https://ieeexplore.ieee.org/document/10383045).” 2023 IEEE 5th Eurasia Conference on IOT, Communication and Engineering (ECICE), IEEE, 2023, pp. 457–59, doi:[10.1109/ECICE59523.2023.10383045](https://doi.org/10.1109/ECICE59523.2023.10383045).
 
 -   Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w).” Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
+
+-   Znika, I., and A. Radovan. “[Personal Physical Fitness Modeling through Real-Time Predictive Models](https://ieeexplore.ieee.org/document/10569604).” 2024 47th MIPRO ICT and Electronics Convention (MIPRO), 2024, pp. 157–62, doi:[10.1109/MIPRO60963.2024.10569604](https://doi.org/10.1109/MIPRO60963.2024.10569604). 
 
 ## Dissertation or thesis 📒
 
@@ -323,6 +333,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   [openant](https://github.com/Tigge/openant) - ANT and ANT-FS Python Library.
 -   [python-tcxparser](https://github.com/vkurup/python-tcxparser) - Simple parser for Garmin TCX files.
 -   [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - A minimalistic toolbox for extracting features from sport activity files written in Python.
+-   [tcxread](https://github.com/firefly-cpp/tcxread) - A parser for TCX files.
 -   [tcxreader](https://github.com/alenrajsp/tcxreader) - Reader / parser for Garmin's TCX file format.
 -   [TCXWriter](https://github.com/firefly-cpp/TCXWriter) - Library for writing/creating TCX files on Arduino & ESP32 devices
 -   [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
