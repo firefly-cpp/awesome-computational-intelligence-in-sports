@@ -65,7 +65,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
 
-- Lygouras, Dimosthenis, and Avgoustos Tsinakos. “[The Use of Immersive Technologies in Karate Training: A Scoping Review](https://www.mdpi.com/2414-4088/8/4/27).” Multimodal Technologies and Interaction, vol. 8, no. 4, 2024, [doi:10.3390/mti8040027](https://doi.org/10.3390/mti8040027). 
+-   Lygouras, Dimosthenis, and Avgoustos Tsinakos. “[The Use of Immersive Technologies in Karate Training: A Scoping Review](https://www.mdpi.com/2414-4088/8/4/27).” Multimodal Technologies and Interaction, vol. 8, no. 4, 2024, [doi:10.3390/mti8040027](https://doi.org/10.3390/mti8040027). 
 
 -   Milasi, Sadegh Fatahi, et al. “[Unlocking the Potential: A Comprehensive Meta-Synthesis of Internet of Things in the Sports Industry](https://journals.sagepub.com/doi/10.1177/17543371241229521).” Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, vol., no., p. 17543371241229520, doi:[10.1177/17543371241229521](https://doi.org/10.1177/17543371241229521).
 
@@ -81,7 +81,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Wakelam, Edward, et al. “[The Collection, Analysis and Exploitation of Footballer Attributes: A Systematic Review](https://content.iospress.com/articles/journal-of-sports-analytics/jsa200554).” Journal of Sports Analytics, vol. 8, no. 1, IOS Press, Jan. 2022, pp. 31–67, doi:[10.3233/JSA-200554](https://doi.org/10.3233/JSA-200554).
 
-- Yang, Luyao, et al. “[Intelligent Wearable Systems: Opportunities and Challenges in Health and Sports](https://dl.acm.org/doi/pdf/10.1145/3648469).” ACM Comput. Surv., vol. 56, no. 7, Association for Computing Machinery, Apr. 2024, [doi:10.1145/3648469](https://doi.org/10.1145/3648469). 
+-   Yang, Luyao, et al. “[Intelligent Wearable Systems: Opportunities and Challenges in Health and Sports](https://dl.acm.org/doi/pdf/10.1145/3648469).” ACM Comput. Surv., vol. 56, no. 7, Association for Computing Machinery, Apr. 2024, [doi:10.1145/3648469](https://doi.org/10.1145/3648469). 
 
 ## Research papers 🔬
 
@@ -333,6 +333,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   [openant](https://github.com/Tigge/openant) - ANT and ANT-FS Python Library.
 -   [python-tcxparser](https://github.com/vkurup/python-tcxparser) - Simple parser for Garmin TCX files.
 -   [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - A minimalistic toolbox for extracting features from sport activity files written in Python.
+-   [tcxread](https://github.com/firefly-cpp/tcxread) - A parser for TCX files.
 -   [tcxreader](https://github.com/alenrajsp/tcxreader) - Reader / parser for Garmin's TCX file format.
 -   [TCXWriter](https://github.com/firefly-cpp/TCXWriter) - Library for writing/creating TCX files on Arduino & ESP32 devices
 -   [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
