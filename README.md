@@ -1,12 +1,17 @@
-# Awesome Computational Intelligence in Sports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10431418.svg)](https://doi.org/10.5281/zenodo.10431418)
-
 <p align="center">
-<img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence in Sports logo" style="height: 126px; width:126px;"/>
+    <img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence in Sports logo" style="height: 126px; width:126px;"/>
 </p>
 
----
+<h1 align="center">Awesome Computational Intelligence in Sports</h1>
+
+<p align="center">
+    <a href="https://awesome.re">
+        <img alt="Awesome" src="https://awesome.re/badge.svg" />
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.10431418">
+        <img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.10431418.svg" />
+    </a>
+</p>
 
 We are curating **awesome** research and approaches to **CI in Sports**!
 
@@ -114,6 +119,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Connor, Mark, et al. “[Optimising Team Sport Training Plans with Grammatical Evolution](https://ieeexplore.ieee.org/abstract/document/8790369).” 2019 IEEE Congress on Evolutionary Computation, CEC 2019 - Proceedings, Institute of Electrical and Electronics Engineers Inc., June 2019, pp. 2474–81, doi:[10.1109/CEC.2019.8790369](https://doi.org/10.1109/CEC.2019.8790369).
 
 -   Connor, Mark, et al. “[Adaptive Athlete Training Plan Generation: An Intelligent Control Systems Approach](https://www.sciencedirect.com/science/article/pii/S1440244021004679).” Journal of Science and Medicine in Sport, vol. 25, no. 4, Elsevier, Apr. 2022, pp. 351–55, doi:[10.1016/j.jsams.2021.10.011](https://doi.org/10.1016/j.jsams.2021.10.011).
+
+-   Cui, Dandan, et al. “[Using Case-Based Causal Reasoning to Provide Explainable Counterfactual Diagnosis in Personalized Sprint Training](https://link.springer.com/chapter/10.1007/978-3-031-63646-2_27).” Case-Based Reasoning Research and Development, edited by Juan A. Recio-Garcia et al., Springer Nature Switzerland, 2024, pp. 418–29, doi:[10.1007/978-3-031-63646-2_27](https://doi.org/10.1007/978-3-031-63646-2_27).
 
 -   De Prisco, Roberto, et al. “[Providing Music Service in Ambient Intelligence: experiments with gym users](https://www.sciencedirect.com/science/article/abs/pii/S0957417421003924).” Expert Systems with Applications, vol. 177, Pergamon, Sept. 2021, p. 114951, doi:[10.1016/j.eswa.2021.114951](https://doi.org/10.1016/j.eswa.2021.114951).
 
@@ -269,7 +276,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Zhu, Dan, et al. “[A Perspective on Rhythmic Gymnastics Performance Analysis Powered by Intelligent Fabric](https://link.springer.com/article/10.1007/s42765-022-00197-w).” Advanced Fiber Materials, Oct. 2022, doi:[10.1007/s42765-022-00197-w](https://doi.org/10.1007/s42765-022-00197-w).
 
--   Znika, I., and A. Radovan. “[Personal Physical Fitness Modeling through Real-Time Predictive Models](https://ieeexplore.ieee.org/document/10569604).” 2024 47th MIPRO ICT and Electronics Convention (MIPRO), 2024, pp. 157–62, doi:[10.1109/MIPRO60963.2024.10569604](https://doi.org/10.1109/MIPRO60963.2024.10569604). 
+-   Znika, I., and A. Radovan. “[Personal Physical Fitness Modeling through Real-Time Predictive Models](https://ieeexplore.ieee.org/document/10569604).” 2024 47th MIPRO ICT and Electronics Convention (MIPRO), 2024, pp. 157–62, doi:[10.1109/MIPRO60963.2024.10569604](https://doi.org/10.1109/MIPRO60963.2024.10569604).
 
 ## Dissertation or thesis 📒
 
@@ -288,6 +295,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 ## Perspectives 📰
 
 -   Chmait, Nader, and Hans Westerbeek. “[Artificial Intelligence and Machine Learning in Sport Research: An Introduction for Non-Data Scientists](https://www.frontiersin.org/articles/10.3389/fspor.2021.682287).” Frontiers in Sports and Active Living, vol. 3, Frontiers Media S.A., Dec. 2021, p. 363, doi:[10.3389/fspor.2021.682287](https://doi.org/10.3389/fspor.2021.682287).
+
+-   Reis, Felipe J. J., et al. “[Artificial Intelligence and Machine Learning Approaches in Sports: Concepts, Applications, Challenges, and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1413355524004891).” Brazilian Journal of Physical Therapy, vol. 28, no. 3, 2024, p. 101083, doi:[10.1016/j.bjpt.2024.101083](https://doi.org/10.1016/j.bjpt.2024.101083).
 
 ## Datasets 📊
 
