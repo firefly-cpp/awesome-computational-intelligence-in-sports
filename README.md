@@ -37,6 +37,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Begg, Rezaul, and Marimuthu Palaniswami. “[Computational Intelligence for Movement Sciences](https://www.igi-global.com/book/computational-intelligence-movement-sciences/178).” Computational Intelligence for Movement Sciences: Neural Networks and Other Emerging Techniques, edited by Rezaul Begg and Marimuthu Palaniswami, IGI Global, 2006, doi:[10.4018/978-1-59140-836-9](https://doi.org/10.4018/978-1-59140-836-9).
 
+-   Dindorf, Carlo, et al. “[Artificial Intelligence in Sports, Movement, and Health](https://link.springer.com/book/10.1007/978-3-031-67256-9).” Springer, 2024, doi:[10.1007/978-3-031-67256-9](https://doi.org/10.1007/978-3-031-67256-9).
+
 -   Fister, Iztok, et al. “[Computational intelligence in sports](https://link.springer.com/book/10.1007%2F978-3-030-03490-0).” Edited by Yew Lim, Meng-Hiot Soon Ong, vol. 22, Springer International Publishing, 2019, doi:[10.1007/978-3-030-03490-0](https://doi.org/10.1007/978-3-030-03490-0).
 
 ## Review papers 📃
