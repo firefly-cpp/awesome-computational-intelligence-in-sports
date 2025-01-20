@@ -51,6 +51,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Cardenas Hernandez, Fernando Pedro, et al. “[Beyond Hard Workout: A Multimodal Framework for Personalised Running Training with Immersive Technologies](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1111/bjet.13445).” British Journal of Educational Technology, doi:[10.1111/bjet.13445](https://doi.org/10.1111/bjet.13445).
 
+-   Cruz, Maria I., et al. “[Advancements in Performance Monitoring: A Systematic Review of Sensor Technologies in Rowing and Canoeing Biomechanics](https://www.mdpi.com/2075-4663/12/9/254).” Sports, vol. 12, no. 9, 2024, doi:[10.3390/sports12090254](https://doi.org/10.3390/sports12090254).
+
 -   Farrokhi, Alireza, et al. “[Application of Internet of Things and Artificial Intelligence for Smart Fitness: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621000360).” Computer Networks, vol. 189, Elsevier, Apr. 2021, p. 107859, doi:[10.1016/j.comnet.2021.107859](https://doi.org/10.1016/j.comnet.2021.107859).
 
 -   Fister Jr, Iztok, et al. “[Computational Intelligence in Sports: Challenges and Opportunities within a New Research Domain](https://www.sciencedirect.com/science/article/abs/pii/S0096300315004300).” Applied Mathematics and Computation, vol. 262, Elsevier, July 2015, pp. 178–86, doi:[10.1016/j.amc.2015.04.004](https://doi.org/10.1016/j.amc.2015.04.004).
@@ -175,6 +177,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Li, Gang, and Tongzhou Zhao. “[Approach of Intelligence Question-Answering System Based on Physical Fitness Knowledge Graph](https://ieeexplore.ieee.org/abstract/document/9638824).” 2021 4th International Conference on Robotics, Control and Automation Engineering (RCAE), IEEE, 2021, pp. 191–95, doi:[10.1109/RCAE53607.2021.9638824](https://doi.org/10.1109/RCAE53607.2021.9638824).
 
+-   Liu, Runze, et al. “[SmartDampener: An Open Source Platform for Sport Analytics in Tennis](https://dl.acm.org/doi/10.1145/3678507).” Proc. ACM Interact. Mob. Wearable Ubiquitous Technol., vol. 8, no. 3, Association for Computing Machinery, Sept. 2024, doi:[10.1145/3678507](https://doi.org/10.1145/3678507).
+
 -   Liu, Yu, et al. “[Design and Implementation of Concurrent Optimization Schemes for Sports Health Prediction Platform](https://www.computer.org/csdl/proceedings-article/icdh/2018/949700a208/17D45WrVgdj).” 2018 7th International Conference on Digital Home (ICDH), IEEE, 2018, pp. 208–12, doi:[10.1109/ICDH.2018.00044](https://doi.org/10.1109/ICDH.2018.00044).
 
 -   Lopez-Gomez, Julio Alberto, et al. “[A Feature-Weighting Approach Using Metaheuristic Algorithms to Evaluate the Performance of Handball Goalkeepers](https://ieeexplore.ieee.org/abstract/document/9726167/).” IEEE Access, 2022, pp. 1–1, doi:[10.1109/ACCESS.2022.3156120](https://doi.org/10.1109/ACCESS.2022.3156120).
@@ -228,6 +232,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Silacci, Alessandro, et al. “[Designing an E-Coach to Tailor Training Plans for Road Cyclists](https://link.springer.com/chapter/10.1007/978-3-030-27928-8_102).” Advances in Intelligent Systems and Computing, vol. 1026, Springer, Cham, 2020, pp. 671–77, doi:[10.1007/978-3-030-27928-8_102](https://doi.org/10.1007/978-3-030-27928-8_102).
 
 -   Silacci, Alessandro, et al. “[Towards an AI-Based Tailored Training Planning for Road Cyclists: A Case Study](https://www.mdpi.com/2076-3417/11/1/313).” Applied Sciences, vol. 11, no. 1, Multidisciplinary Digital Publishing Institute, Dec. 2020, p. 313, doi:[10.3390/app11010313](https://doi.org/10.3390/app11010313).
+
+-   Skublewska-Paszkowska, Maria, et al. “[Tennis Patterns Recognition Based on a Novel Tennis Dataset – 3DTennisDS](https://www.astrj.com/Tennis-Patterns-Recognition-Based-on-a-Novel-Tennis-Dataset-3DTennisDS,191264,0,2.html).” Advances in Science and Technology Research Journal, vol. 18, no. 6, 2024, pp. 159–76, doi:[10.12913/22998624/191264](https://doi.org/10.12913/22998624/191264).
 
 -   Smyth, Barry, et al. “[Recommendations for Marathon Runners: On the Application of Recommender Systems and Machine Learning to Support Recreational Marathon Runners](https://link.springer.com/article/10.1007/s11257-021-09299-3).” User Modeling and User-Adapted Interaction, Springer, Aug. 2021, pp. 1–52, doi:[10.1007/s11257-021-09299-3](https://doi.org/10.1007/s11257-021-09299-3).
 
