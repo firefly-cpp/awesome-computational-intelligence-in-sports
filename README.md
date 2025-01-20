@@ -67,6 +67,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   H. Pascual, X. M. Bruin, A. Alonso, J. Cerd`a, “[A systematic review on human modeling: Digging into human digital twin implementations](https://arxiv.org/abs/2302.03593).“, arXiv preprint, doi:[arXiv:2302.03593](https://doi.org/10.48550/arXiv.2302.03593).
 
+-   Jud, Matthias, and Stefan Thalmann. “[AI in Digital Sports Coaching – a Systematic Review](https://www.tandfonline.com/doi/full/10.1080/23750472.2024.2449016).” Managing Sport and Leisure, Routledge, 2025, pp. 1–17, doi:[10.1080/23750472.2024.2449016](https://doi.org/10.1080/23750472.2024.2449016).
+
 -   Krstić, Dušan, et al. “[The Application and Impact of Artificial Intelligence on Sports Performance Improvement: A Systematic Literature Review](https://ieeexplore.ieee.org/abstract/document/10378750).” 2023 4th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), IEEE, 2023, pp. 1–8, doi:[10.1109/CIEES58940.2023.10378750](https://doi.org/10.1109/CIEES58940.2023.10378750).
 
 -   Lai, Daniel T. H., et al. “[Computational Intelligence in Gait Research: A Perspective on Current Applications and Future Challenges](https://ieeexplore.ieee.org/abstract/document/4915787).” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 5, 2009, pp. 687–702, doi:[10.1109/TITB.2009.2022913](https://doi.org/10.1109/TITB.2009.2022913).
