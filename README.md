@@ -359,6 +359,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   [TCXWriter](https://github.com/firefly-cpp/TCXWriter) - Library for writing/creating TCX files on Arduino & ESP32 devices
 -   [tcx2gpx](https://gitlab.com/nshephard/tcx2gpx) - Python package for converting tcx GPS files to gpx files.
 -   [TCXReader.jl](https://github.com/firefly-cpp/TCXReader.jl) -  Julia package designed for parsing TCX files.
+-   [tcx-ls](https://github.com/tderflinger/tcx-ls) - CLI application for viewing TCX file information.
 
 ## Web applications 🌐
 
