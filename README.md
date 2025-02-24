@@ -178,6 +178,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   He, Liqin, et al. “[Decision Support System for Effective Action Recognition of Track and Field Sports Using Ant Colony Optimization](https://link.springer.com/article/10.1007/s00500-023-07967-7).” Soft Computing, Mar. 2023, pp. 1–11, doi:[10.1007/s00500-023-07967-7](https://doi.org/10.1007/s00500-023-07967-7).
 
+-   Hliš, Tilen, et. al. "[Path Overlap Detection and Property Graph Construction from TCX Data for Advanced Analysis](https://iztok.link/static/publications/345.pdf)." 2025 IEEE 23rd World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, 2025, pp. 000489-000494, doi: [10.1109/SAMI63904.2025.10883235](10.1109/SAMI63904.2025.10883235).
+
 -   Kipp, Kristof, et al. “[Use of Machine Learning to Model Volume Load Effects on Changes in Jump Performance](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p285.xml?utm_source=TrendMD&utm_medium=cpc&utm_campaign=International_Journal_of_Sports_Physiology_and_Performance_TrendMD_1).” International Journal of Sports Physiology and Performance, vol. 15, no. 2, Human Kinetics, Feb. 2020, pp. 285–87, doi:[10.1123/IJSPP.2019-0009](https://doi.org/10.1123/IJSPP.2019-0009).
 
 -   Kumyaito, Nattapon, et al. “[Planning a Sports Training Program Using Adaptive Particle Swarm Optimization with Emphasis on Physiological Constraints](10.1186/s13104-017-3120-9).” BMC Research Notes, vol. 11, no. 1, Dec. 2018, p. 9, doi:[10.1186/s13104-017-3120-9](https://doi.org/10.1186/s13104-017-3120-9).
