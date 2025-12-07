@@ -301,6 +301,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 -   Chmait, Nader, and Hans Westerbeek. “[Artificial Intelligence and Machine Learning in Sport Research: An Introduction for Non-Data Scientists](https://www.frontiersin.org/articles/10.3389/fspor.2021.682287).” Frontiers in Sports and Active Living, vol. 3, Frontiers Media S.A., Dec. 2021, p. 363, doi:[10.3389/fspor.2021.682287](https://doi.org/10.3389/fspor.2021.682287).
 
 -   Reis, Felipe J. J., et al. “[Artificial Intelligence and Machine Learning Approaches in Sports: Concepts, Applications, Challenges, and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1413355524004891).” Brazilian Journal of Physical Therapy, vol. 28, no. 3, 2024, p. 101083, doi:[10.1016/j.bjpt.2024.101083](https://doi.org/10.1016/j.bjpt.2024.101083).
+  
+-   Madsen, Dag Øivind, and Ekaterina Glebova. “[Sports Industry 5.0: Reimagining Sport through Technology, Humanity, and Sustainability](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1640362/full).” Frontiers in Sports and Active Living, vol. 7, 2025, article 1640362, doi:[10.3389/fspor.2025.1640362](https://doi.org/10.3389/fspor.2025.1640362).  
 
 ## Datasets 📊
 
