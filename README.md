@@ -329,6 +329,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ### Soccer ⚽️
 
+-   AsianScore Quantitative Research Lab. “[AsianScore Verifiable Football & NBA xG Prediction Ledger](https://github.com/AIYIXIU/asianscore-xg-ledger-dataset).” Zenodo, Nov. 2026, doi:[10.5281/zenodo.24441036](https://doi.org/10.5281/zenodo.24441036).
+
 -   Rouissi, Mehdi, et al. “[Data concerning isometric lower limb strength of dominant versus not-dominant leg in young elite soccer players](https://www.sciencedirect.com/science/article/pii/S2352340918300258).” (2018).
 
 -   Pappalardo, Luca, et al. “[A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).” Scientific data 6.1 (2019): 1-15.
