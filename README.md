@@ -308,6 +308,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Rico-Garcia, Mateo, et al. “[Vertical Jump Data from Inertial and Optical Motion Tracking Systems](https://www.mdpi.com/2306-5729/7/8/116).” Data, vol. 7, no. 8, Aug. 2022, p. 116, doi:[10.3390/data7080116](https://doi.org/10.3390/data7080116).
 -   Romagnoli, Sofia, et al. “[Sport DB 2.0: A New Database of Data Acquired by Wearable and Portable Devices While Practicing Sport](https://ieeexplore.ieee.org/abstract/document/10364234).” 2023 Computing in Cardiology (CinC), vol. 50, 2023, pp. 1–4, doi:[10.22489/CinC.2023.067](https://doi.org/10.22489/CinC.2023.067).
+-   [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP).
 
 ### Basketball 🏀
 
